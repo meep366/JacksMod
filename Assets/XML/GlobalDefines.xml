@@ -739,7 +739,7 @@
 	</Define>
 	<Define>
 		<DefineName>GLOBAL_WARMING_NUKE_WEIGHT</DefineName>
-		<iDefineIntVal>50</iDefineIntVal>
+		<iDefineIntVal>0</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>TECH_COST_EXTRA_TEAM_MEMBER_MODIFIER</DefineName>
@@ -1640,7 +1640,7 @@
 	</Define>
 	<Define>
 		<DefineName>CITY_AIR_UNIT_CAPACITY</DefineName>
-		<iDefineIntVal>4</iDefineIntVal>
+		<iDefineIntVal>8</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>COLONY_NUM_FREE_DEFENDERS</DefineName>
