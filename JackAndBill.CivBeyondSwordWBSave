@@ -22,7 +22,7 @@ BeginTeam
 	TeamID=0
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_AGRICULTURE
-	EspionageEverAmount=8
+	EspionageEverAmount=12
 	ContactWithTeam=0
 	RevealMap=0
 EndTeam
@@ -30,7 +30,7 @@ BeginTeam
 	TeamID=1
 	Tech=TECH_MYSTICISM
 	Tech=TECH_MINING
-	EspionageEverAmount=8
+	EspionageEverAmount=12
 	ContactWithTeam=1
 	RevealMap=0
 EndTeam
@@ -38,8 +38,8 @@ BeginTeam
 	TeamID=2
 	Tech=TECH_AGRICULTURE
 	Tech=TECH_MINING
-	EspionageTeam=8, EspionageAmount=6
-	EspionageEverAmount=10
+	EspionageTeam=8, EspionageAmount=12
+	EspionageEverAmount=16
 	ContactWithTeam=2
 	ContactWithTeam=8
 	RevealMap=0
@@ -48,7 +48,7 @@ BeginTeam
 	TeamID=3
 	Tech=TECH_FISHING
 	Tech=TECH_HUNTING
-	EspionageEverAmount=8
+	EspionageEverAmount=12
 	ContactWithTeam=3
 	RevealMap=0
 EndTeam
@@ -178,8 +178,8 @@ BeginPlayer
 	LeaderType=LEADER_HATSHEPSUT
 	LeaderName=Hatshepsut
 	CivDesc=Egyptian Empire
-	CivShortDesc=TXT_KEY_CIV_EGYPT_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_EGYPT_ADJECTIVE
+	CivShortDesc=Egypt
+	CivAdjective=Egyptian
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_EyeOfRa.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_EGYPT
@@ -204,8 +204,8 @@ BeginPlayer
 	LeaderType=LEADER_ASOKA
 	LeaderName=Asoka
 	CivDesc=Indian Empire
-	CivShortDesc=TXT_KEY_CIV_INDIA_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_INDIA_ADJECTIVE
+	CivShortDesc=India
+	CivAdjective=Indian
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_WheelOfLaw.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_INDIA
@@ -230,8 +230,8 @@ BeginPlayer
 	LeaderType=LEADER_QIN_SHI_HUANG
 	LeaderName=Qin Shi Huang
 	CivDesc=Chinese Empire
-	CivShortDesc=TXT_KEY_CIV_CHINA_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_CHINA_ADJECTIVE
+	CivShortDesc=China
+	CivAdjective=Chinese
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Dragon.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_CHINA
@@ -256,8 +256,8 @@ BeginPlayer
 	LeaderType=LEADER_ALEXANDER
 	LeaderName=Alexander
 	CivDesc=Greek Empire
-	CivShortDesc=TXT_KEY_CIV_GREECE_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_GREECE_ADJECTIVE
+	CivShortDesc=Greece
+	CivAdjective=Greek
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Helmet.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_GREECE
@@ -282,8 +282,8 @@ BeginPlayer
 	LeaderType=LEADER_JULIUS_CAESAR
 	LeaderName=Julius Caesar
 	CivDesc=Roman Empire
-	CivShortDesc=TXT_KEY_CIV_ROME_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_ROME_ADJECTIVE
+	CivShortDesc=Rome
+	CivAdjective=Roman
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Laurels.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_ROME
@@ -308,8 +308,8 @@ BeginPlayer
 	LeaderType=LEADER_CYRUS
 	LeaderName=Cyrus
 	CivDesc=Persian Empire
-	CivShortDesc=TXT_KEY_CIV_PERSIA_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_PERSIA_ADJECTIVE
+	CivShortDesc=Persia
+	CivAdjective=Persian
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Scimitar.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_PERSIA
@@ -334,8 +334,8 @@ BeginPlayer
 	LeaderType=LEADER_TOKUGAWA
 	LeaderName=Tokugawa
 	CivDesc=Japanese Empire
-	CivShortDesc=TXT_KEY_CIV_JAPAN_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_JAPAN_ADJECTIVE
+	CivShortDesc=Japan
+	CivAdjective=Japanese
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Dot.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_JAPAN
@@ -360,8 +360,8 @@ BeginPlayer
 	LeaderType=LEADER_FREDERICK
 	LeaderName=Frederick
 	CivDesc=German Empire
-	CivShortDesc=TXT_KEY_CIV_GERMANY_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_GERMANY_ADJECTIVE
+	CivShortDesc=Germany
+	CivAdjective=German
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_MalteseCross.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_GERMANY
@@ -386,8 +386,8 @@ BeginPlayer
 	LeaderType=LEADER_GENGHIS_KHAN
 	LeaderName=Genghis Khan
 	CivDesc=Mongolian Empire
-	CivShortDesc=TXT_KEY_CIV_MONGOL_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_MONGOL_ADJECTIVE
+	CivShortDesc=Mongolia
+	CivAdjective=Mongolian
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Horse.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_MONGOL
@@ -412,8 +412,8 @@ BeginPlayer
 	LeaderType=LEADER_LOUIS_XIV
 	LeaderName=Louis XIV
 	CivDesc=French Empire
-	CivShortDesc=TXT_KEY_CIV_FRANCE_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_FRANCE_ADJECTIVE
+	CivShortDesc=France
+	CivAdjective=French
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_FleurDeLis.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_FRANCE
@@ -438,8 +438,8 @@ BeginPlayer
 	LeaderType=LEADER_SALADIN
 	LeaderName=Saladin
 	CivDesc=Arabian Empire
-	CivShortDesc=TXT_KEY_CIV_ARABIA_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_ARABIA_ADJECTIVE
+	CivShortDesc=Arabia
+	CivAdjective=Arabian
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Arabic.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_ARABIA
@@ -464,8 +464,8 @@ BeginPlayer
 	LeaderType=LEADER_ISABELLA
 	LeaderName=Isabella
 	CivDesc=Spanish Empire
-	CivShortDesc=TXT_KEY_CIV_SPAIN_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_SPAIN_ADJECTIVE
+	CivShortDesc=Spain
+	CivAdjective=Spanish
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Castle.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_SPAIN
@@ -490,8 +490,8 @@ BeginPlayer
 	LeaderType=LEADER_ELIZABETH
 	LeaderName=Elizabeth
 	CivDesc=English Empire
-	CivShortDesc=TXT_KEY_CIV_ENGLAND_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_ENGLAND_ADJECTIVE
+	CivShortDesc=England
+	CivAdjective=English
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_StGeorgeCross.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_ENGLAND
@@ -516,8 +516,8 @@ BeginPlayer
 	LeaderType=LEADER_CATHERINE
 	LeaderName=Catherine
 	CivDesc=Russian Empire
-	CivShortDesc=TXT_KEY_CIV_RUSSIA_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_RUSSIA_ADJECTIVE
+	CivShortDesc=Russia
+	CivAdjective=Russian
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_DoubleEagle.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_RUSSIA
@@ -542,8 +542,8 @@ BeginPlayer
 	LeaderType=LEADER_MANSA_MUSA
 	LeaderName=Mansa Musa
 	CivDesc=Malinese Empire
-	CivShortDesc=TXT_KEY_CIV_MALI_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_MALI_ADJECTIVE
+	CivShortDesc=Mali
+	CivAdjective=Malinese
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Mask.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_MALI
@@ -568,8 +568,8 @@ BeginPlayer
 	LeaderType=LEADER_HUAYNA_CAPAC
 	LeaderName=Huayna Capac
 	CivDesc=Incan Empire
-	CivShortDesc=TXT_KEY_CIV_INCA_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_INCA_ADJECTIVE
+	CivShortDesc=Inca
+	CivAdjective=Incan
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Sun.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_INCA
@@ -593,8 +593,8 @@ BeginPlayer
 	LeaderType=LEADER_MONTEZUMA
 	LeaderName=Montezuma
 	CivDesc=Aztec Empire
-	CivShortDesc=TXT_KEY_CIV_AZTEC_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_AZTEC_ADJECTIVE
+	CivShortDesc=Aztec
+	CivAdjective=Aztec
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_AztecCalendar.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_AZTEC
@@ -618,8 +618,8 @@ BeginPlayer
 	LeaderType=LEADER_FRANKLIN_ROOSEVELT
 	LeaderName=Roosevelt
 	CivDesc=American Empire
-	CivShortDesc=TXT_KEY_CIV_AMERICA_SHORT_DESC
-	CivAdjective=TXT_KEY_CIV_AMERICA_ADJECTIVE
+	CivShortDesc=America
+	CivAdjective=American
 	FlagDecal=Art/Interface/TeamColor/FlagDECAL_Star.dds
 	WhiteFlag=0
 	CivType=CIVILIZATION_AMERICA
@@ -12117,7 +12117,7 @@ BeginPlot
 	x=31,y=21
 	RiverNSDirection=2
 	isWOfRiver
-	TerrainType=TERRAIN_PLAINS
+	TerrainType=TERRAIN_GRASS
 	PlotType=1
 EndPlot
 BeginPlot
@@ -12506,6 +12506,7 @@ BeginPlot
 	x=32,y=16
 	RiverNSDirection=0
 	isWOfRiver
+	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -12513,6 +12514,7 @@ BeginPlot
 	x=32,y=17
 	RiverNSDirection=2
 	isWOfRiver
+	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -12912,16 +12914,19 @@ BeginPlot
 	x=33,y=17
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=33,y=18
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=33,y=19
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=33,y=20
@@ -13291,28 +13296,31 @@ BeginPlot
 	x=34,y=15
 	RiverNSDirection=2
 	isWOfRiver
-	TerrainType=TERRAIN_PLAINS
+	TerrainType=TERRAIN_GRASS
 	PlotType=1
 EndPlot
 BeginPlot
 	x=34,y=16
-	TerrainType=TERRAIN_PLAINS
+	TerrainType=TERRAIN_GRASS
 	PlotType=1
 EndPlot
 BeginPlot
 	x=34,y=17
-	TerrainType=TERRAIN_PLAINS
+	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=34,y=18
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=34,y=19
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=34,y=20
@@ -13678,13 +13686,15 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=35,y=17
-	TerrainType=TERRAIN_PLAINS
+	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=35,y=18
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=35,y=19
@@ -13692,6 +13702,7 @@ BeginPlot
 	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=35,y=20
@@ -25072,13 +25083,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=3
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=7
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=3,
 EndPlot
 BeginPlot
@@ -25103,6 +25107,7 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=65,y=49
@@ -25438,6 +25443,7 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=66,y=35
@@ -25465,11 +25471,13 @@ BeginPlot
 	FeatureType=FEATURE_OASIS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=66,y=39
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=66,y=40
@@ -25477,13 +25485,13 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=3,
+	TeamReveal=0,3,
 EndPlot
 BeginPlot
 	x=66,y=41
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=3,
+	TeamReveal=0,3,
 EndPlot
 BeginPlot
 	x=66,y=42
@@ -25530,11 +25538,13 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=66,y=49
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=66,y=50
@@ -25851,12 +25861,20 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=67,y=35
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=0
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=0,
 EndPlot
 BeginPlot
@@ -25866,13 +25884,6 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=0
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=6
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=0,
 EndPlot
 BeginPlot
@@ -25899,13 +25910,13 @@ BeginPlot
 	x=67,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=3,
+	TeamReveal=0,3,
 EndPlot
 BeginPlot
 	x=67,y=41
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=3,
+	TeamReveal=0,3,
 EndPlot
 BeginPlot
 	x=67,y=42
@@ -25927,7 +25938,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player3Culture=4
+		Player3Culture=6
 	EndCity
 	TeamReveal=3,
 EndPlot
@@ -25956,17 +25967,26 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=3
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=1
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=67,y=48
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=67,y=49
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=67,y=50
@@ -26280,6 +26300,7 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=68,y=35
@@ -26333,14 +26354,14 @@ BeginPlot
 	x=68,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=3,
+	TeamReveal=0,3,
 EndPlot
 BeginPlot
 	x=68,y=41
 	BonusType=BONUS_WINE
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=3,
+	TeamReveal=0,3,
 EndPlot
 BeginPlot
 	x=68,y=42
@@ -26377,17 +26398,20 @@ BeginPlot
 	x=68,y=47
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=68,y=48
 	BonusType=BONUS_HORSE
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=68,y=49
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=68,y=50
@@ -26692,6 +26716,7 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=69,y=35
@@ -26721,7 +26746,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player0Culture=8
+		Player0Culture=12
 	EndCity
 	TeamReveal=0,
 EndPlot
@@ -26747,12 +26772,13 @@ BeginPlot
 	x=69,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=69,y=41
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=3,
+	TeamReveal=0,3,
 EndPlot
 BeginPlot
 	x=69,y=42
@@ -26790,16 +26816,19 @@ BeginPlot
 	x=69,y=47
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=69,y=48
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=69,y=49
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=69,y=50
@@ -27095,6 +27124,7 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=70,y=35
@@ -27135,11 +27165,13 @@ BeginPlot
 	x=70,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=70,y=41
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=70,y=42
@@ -27472,11 +27504,13 @@ BeginPlot
 	x=71,y=33
 	TerrainType=TERRAIN_PLAINS
 	PlotType=0
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=71,y=34
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=71,y=35
@@ -27512,11 +27546,13 @@ BeginPlot
 	x=71,y=40
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=71,y=41
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=71,y=42
@@ -27863,19 +27899,19 @@ BeginPlot
 	BonusType=BONUS_COW
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
-	TeamReveal=10,
+	TeamReveal=0,10,
 EndPlot
 BeginPlot
 	x=72,y=34
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
-	TeamReveal=10,
+	TeamReveal=0,10,
 EndPlot
 BeginPlot
 	x=72,y=35
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=10,
+	TeamReveal=0,10,
 EndPlot
 BeginPlot
 	x=72,y=36
@@ -27905,11 +27941,13 @@ BeginPlot
 	x=72,y=40
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=72,y=41
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=72,y=42
@@ -28258,42 +28296,45 @@ BeginPlot
 	x=73,y=34
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=10,
+	TeamReveal=0,10,
 EndPlot
 BeginPlot
 	x=73,y=35
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=10,
+	TeamReveal=0,10,
 EndPlot
 BeginPlot
 	x=73,y=36
 	BonusType=BONUS_CLAM
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=10,
+	TeamReveal=0,10,
 EndPlot
 BeginPlot
 	x=73,y=37
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
-	TeamReveal=10,
+	TeamReveal=0,10,
 EndPlot
 BeginPlot
 	x=73,y=38
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=73,y=39
 	FeatureType=FEATURE_OASIS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=73,y=40
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=73,y=41
@@ -34376,11 +34417,13 @@ BeginPlot
 	x=89,y=35
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=89,y=36
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=89,y=37
@@ -34758,11 +34801,13 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=90,y=36
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=90,y=37
@@ -34799,7 +34844,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player1Culture=4
+		Player1Culture=6
 	EndCity
 	TeamReveal=1,
 EndPlot
@@ -35154,6 +35199,7 @@ BeginPlot
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=91,y=36
@@ -35169,6 +35215,13 @@ BeginPlot
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=1
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=5
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=1,
 EndPlot
 BeginPlot
@@ -35540,6 +35593,7 @@ BeginPlot
 	BonusType=BONUS_COW
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=92,y=36
@@ -35560,13 +35614,6 @@ BeginPlot
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=1
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=3
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=1,
 EndPlot
 BeginPlot
@@ -38698,13 +38745,6 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=2
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=6
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=2,8,
 EndPlot
 BeginPlot
@@ -39122,6 +39162,13 @@ BeginPlot
 	x=101,y=49
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=2
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=1
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=2,8,
 EndPlot
 BeginPlot
@@ -39516,7 +39563,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player2Culture=4
+		Player2Culture=6
 	EndCity
 	TeamReveal=2,
 EndPlot
@@ -39546,7 +39593,7 @@ BeginPlot
 	x=102,y=51
 	TerrainType=TERRAIN_DESERT
 	PlotType=0
-	TeamReveal=8,
+	TeamReveal=2,8,
 EndPlot
 BeginPlot
 	x=102,y=52
