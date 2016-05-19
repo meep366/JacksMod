@@ -8,7 +8,7 @@ BeginGame
 	Option=GAMEOPTION_NO_VASSAL_STATES
 	Victory=VICTORY_CONQUEST
 	GameTurn=0
-	MaxTurns=500
+	MaxTurns=0
 	MaxCityElimination=0
 	NumAdvancedStartPoints=2160
 	TargetScore=0
