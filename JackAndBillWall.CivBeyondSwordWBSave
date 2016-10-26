@@ -20,8 +20,8 @@ BeginTeam
 	TeamID=0
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_AGRICULTURE
-	EspionageTeam=3, EspionageAmount=36
-	EspionageEverAmount=56
+	EspionageTeam=3, EspionageAmount=54
+	EspionageEverAmount=74
 	ContactWithTeam=0
 	ContactWithTeam=3
 	RevealMap=0
@@ -30,7 +30,7 @@ BeginTeam
 	TeamID=1
 	Tech=TECH_MYSTICISM
 	Tech=TECH_MINING
-	EspionageEverAmount=44
+	EspionageEverAmount=56
 	ContactWithTeam=1
 	RevealMap=0
 EndTeam
@@ -38,8 +38,8 @@ BeginTeam
 	TeamID=2
 	Tech=TECH_AGRICULTURE
 	Tech=TECH_MINING
-	EspionageTeam=8, EspionageAmount=60
-	EspionageEverAmount=64
+	EspionageTeam=8, EspionageAmount=78
+	EspionageEverAmount=82
 	ContactWithTeam=2
 	ContactWithTeam=8
 	RevealMap=0
@@ -48,8 +48,8 @@ BeginTeam
 	TeamID=3
 	Tech=TECH_FISHING
 	Tech=TECH_HUNTING
-	EspionageTeam=0, EspionageAmount=36
-	EspionageEverAmount=56
+	EspionageTeam=0, EspionageAmount=54
+	EspionageEverAmount=74
 	ContactWithTeam=0
 	ContactWithTeam=3
 	ContactWithTeam=13
@@ -59,7 +59,7 @@ BeginTeam
 	TeamID=4
 	Tech=TECH_FISHING
 	Tech=TECH_MINING
-	EspionageEverAmount=32
+	EspionageEverAmount=36
 	ContactWithTeam=4
 	RevealMap=0
 EndTeam
@@ -68,7 +68,8 @@ BeginTeam
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_AGRICULTURE
 	Tech=TECH_HUNTING
-	EspionageEverAmount=32
+	EspionageTeam=10, EspionageAmount=5
+	EspionageEverAmount=37
 	ContactWithTeam=5
 	ContactWithTeam=10
 	RevealMap=0
@@ -77,7 +78,7 @@ BeginTeam
 	TeamID=6
 	Tech=TECH_FISHING
 	Tech=TECH_THE_WHEEL
-	EspionageEverAmount=32
+	EspionageEverAmount=36
 	ContactWithTeam=6
 	RevealMap=0
 EndTeam
@@ -85,8 +86,8 @@ BeginTeam
 	TeamID=7
 	Tech=TECH_HUNTING
 	Tech=TECH_MINING
-	EspionageTeam=9, EspionageAmount=42
-	EspionageEverAmount=46
+	EspionageTeam=9, EspionageAmount=48
+	EspionageEverAmount=52
 	ContactWithTeam=7
 	ContactWithTeam=9
 	RevealMap=0
@@ -96,8 +97,8 @@ BeginTeam
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_HUNTING
 	Tech=TECH_MINING
-	EspionageTeam=2, EspionageAmount=48
-	EspionageEverAmount=48
+	EspionageTeam=2, EspionageAmount=54
+	EspionageEverAmount=54
 	ContactWithTeam=2
 	ContactWithTeam=8
 	RevealMap=0
@@ -106,11 +107,12 @@ BeginTeam
 	TeamID=9
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_AGRICULTURE
-	EspionageTeam=7, EspionageAmount=23
-	EspionageTeam=12, EspionageAmount=25
-	EspionageEverAmount=48
+	EspionageTeam=7, EspionageAmount=25
+	EspionageTeam=12, EspionageAmount=29
+	EspionageEverAmount=54
 	ContactWithTeam=7
 	ContactWithTeam=9
+	ContactWithTeam=11
 	ContactWithTeam=12
 	RevealMap=0
 EndTeam
@@ -118,8 +120,8 @@ BeginTeam
 	TeamID=10
 	Tech=TECH_MYSTICISM
 	Tech=TECH_THE_WHEEL
-	EspionageTeam=5, EspionageAmount=4
-	EspionageEverAmount=32
+	EspionageTeam=5, EspionageAmount=8
+	EspionageEverAmount=36
 	ContactWithTeam=5
 	ContactWithTeam=10
 	RevealMap=0
@@ -128,7 +130,9 @@ BeginTeam
 	TeamID=11
 	Tech=TECH_MYSTICISM
 	Tech=TECH_FISHING
-	EspionageEverAmount=32
+	EspionageTeam=9, EspionageAmount=4
+	EspionageEverAmount=36
+	ContactWithTeam=9
 	ContactWithTeam=11
 	RevealMap=0
 EndTeam
@@ -136,8 +140,8 @@ BeginTeam
 	TeamID=12
 	Tech=TECH_FISHING
 	Tech=TECH_MINING
-	EspionageTeam=9, EspionageAmount=48
-	EspionageEverAmount=48
+	EspionageTeam=9, EspionageAmount=54
+	EspionageEverAmount=54
 	ContactWithTeam=9
 	ContactWithTeam=12
 	RevealMap=0
@@ -146,8 +150,8 @@ BeginTeam
 	TeamID=13
 	Tech=TECH_HUNTING
 	Tech=TECH_MINING
-	EspionageTeam=3, EspionageAmount=15
-	EspionageEverAmount=35
+	EspionageTeam=3, EspionageAmount=20
+	EspionageEverAmount=40
 	ContactWithTeam=3
 	ContactWithTeam=13
 	RevealMap=0
@@ -156,7 +160,7 @@ BeginTeam
 	TeamID=14
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_MINING
-	EspionageEverAmount=32
+	EspionageEverAmount=36
 	ContactWithTeam=14
 	RevealMap=0
 EndTeam
@@ -164,8 +168,8 @@ BeginTeam
 	TeamID=15
 	Tech=TECH_MYSTICISM
 	Tech=TECH_AGRICULTURE
-	EspionageTeam=16, EspionageAmount=4
-	EspionageEverAmount=28
+	EspionageTeam=16, EspionageAmount=8
+	EspionageEverAmount=32
 	ContactWithTeam=15
 	ContactWithTeam=16
 	RevealMap=0
@@ -174,8 +178,8 @@ BeginTeam
 	TeamID=16
 	Tech=TECH_MYSTICISM
 	Tech=TECH_HUNTING
-	EspionageTeam=15, EspionageAmount=9
-	EspionageEverAmount=29
+	EspionageTeam=15, EspionageAmount=13
+	EspionageEverAmount=33
 	ContactWithTeam=15
 	ContactWithTeam=16
 	RevealMap=0
@@ -7146,37 +7150,37 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=18,y=12
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=13
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=14
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=15
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=16
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=17
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=18
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -7513,37 +7517,52 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=12
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=19,y=13
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=19,y=14
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	RiverNSDirection=0
+	isNOfRiver
+	RiverWEDirection=1
+	isWOfRiver
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=19,y=15
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	RiverNSDirection=0
+	isNOfRiver
+	RiverWEDirection=3
+	isWOfRiver
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=19,y=16
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	isNOfRiver
+	RiverWEDirection=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=19,y=17
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=19,y=18
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -7895,42 +7914,49 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=20,y=12
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=20,y=13
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=20,y=14
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=20,y=15
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	isNOfRiver
+	RiverWEDirection=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=20,y=16
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=20,y=17
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=20,y=18
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=20,y=19
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -8266,53 +8292,60 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=11
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=21,y=12
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=21,y=13
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=21,y=14
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=21,y=15
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	isNOfRiver
+	RiverWEDirection=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=21,y=16
-	ImprovementType=IMPROVEMENT_GOODY_HUT
-	TerrainType=TERRAIN_PLAINS
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=21,y=17
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
+EndPlot
+BeginPlot
+	x=21,y=18
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
+EndPlot
+BeginPlot
+	x=21,y=19
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
-	x=21,y=18
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
-EndPlot
-BeginPlot
-	x=21,y=19
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
-EndPlot
-BeginPlot
 	x=21,y=20
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -8634,67 +8667,77 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=22,y=9
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=10
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=11
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=12
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=22,y=13
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=22,y=14
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=22,y=15
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	isNOfRiver
+	RiverWEDirection=1
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=22,y=16
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=22,y=17
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=22,y=18
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=22,y=19
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=22,y=20
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=21
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -9007,67 +9050,78 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=23,y=9
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=23,y=10
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=11
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=12
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=13
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=23,y=14
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=15
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	isNOfRiver
+	RiverWEDirection=1
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=16
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=17
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=23,y=18
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=19
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=20
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=21
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -9362,22 +9416,22 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=4
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=5
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=6
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=7
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -9387,67 +9441,75 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=9
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=10
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=11
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=24,y=12
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=13
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=14
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=24,y=15
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=24,y=16
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=17
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=24,y=18
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=24,y=19
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=20
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=21
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -9741,87 +9803,115 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=25,y=4
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=5
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=6
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=7
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=8
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=9
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=10
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=25,y=11
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	RiverNSDirection=2
+	isWOfRiver
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=25,y=12
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	RiverNSDirection=2
+	isWOfRiver
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=25,y=13
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	RiverNSDirection=2
+	isWOfRiver
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=25,y=14
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	isNOfRiver
+	RiverWEDirection=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=25,y=15
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=25,y=16
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	RiverNSDirection=2
+	isNOfRiver
+	RiverWEDirection=3
+	isWOfRiver
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=25,y=17
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	RiverNSDirection=2
+	isWOfRiver
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=25,y=18
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	RiverNSDirection=2
+	isWOfRiver
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=25,y=19
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	RiverNSDirection=2
+	isWOfRiver
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=25,y=20
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -9869,31 +9959,26 @@ BeginPlot
 	x=25,y=29
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=25,y=30
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=25,y=31
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=25,y=32
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=25,y=33
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=25,y=34
@@ -10102,83 +10187,95 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=4
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=5
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=6
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=7
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=8
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=9
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=10
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=26,y=11
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	isNOfRiver
+	RiverWEDirection=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=26,y=12
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=26,y=13
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=26,y=14
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=26,y=15
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=26,y=16
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=26,y=17
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=26,y=18
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=26,y=19
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=26,y=20
@@ -10232,26 +10329,22 @@ BeginPlot
 	x=26,y=29
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=26,y=30
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=26,y=31
 	BonusType=BONUS_CRAB
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=26,y=32
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=26,y=33
@@ -10270,7 +10363,6 @@ BeginPlot
 	x=26,y=35
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=26,y=36
@@ -10481,87 +10573,100 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=4
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=5
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=6
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=7
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=8
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=9
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=10
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	RiverNSDirection=0
+	isWOfRiver
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=27,y=11
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	isNOfRiver
+	RiverWEDirection=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=27,y=12
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=27,y=13
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=14
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=27,y=15
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=27,y=16
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=27,y=17
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=27,y=18
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=27,y=19
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=27,y=20
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -10616,7 +10721,6 @@ BeginPlot
 	x=27,y=30
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=27,y=31
@@ -10649,7 +10753,6 @@ BeginPlot
 	x=27,y=35
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=27,y=36
@@ -10862,12 +10965,12 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=28,y=4
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=28,y=5
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -10892,57 +10995,68 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=28,y=10
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
+EndPlot
+BeginPlot
+	x=28,y=11
+	isNOfRiver
+	RiverWEDirection=1
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
+EndPlot
+BeginPlot
+	x=28,y=12
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
+EndPlot
+BeginPlot
+	x=28,y=13
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
-	x=28,y=11
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
-EndPlot
-BeginPlot
-	x=28,y=12
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
-EndPlot
-BeginPlot
-	x=28,y=13
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
-EndPlot
-BeginPlot
 	x=28,y=14
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=28,y=15
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=28,y=16
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=28,y=17
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=28,y=18
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=28,y=19
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=28,y=20
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -11007,7 +11121,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=28,y=31
@@ -11022,23 +11135,19 @@ BeginPlot
 	x=28,y=32
 	RiverNSDirection=0
 	isWOfRiver
-	RouteType=ROUTE_ROAD
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginCity
-		CityOwner=4
-		CityName=TXT_KEY_CITY_NAME_ROME
-		CityPopulation=1
-		ProductionUnit=UNIT_WARRIOR
-		BuildingType=BUILDING_PALACE
-		Player4Culture=4
-	EndCity
+	BeginUnit
+		UnitType=UNIT_SETTLER, UnitOwner=4
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_SETTLE
+	EndUnit
 	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=28,y=33
-	RiverNSDirection=0
-	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=4,
@@ -11053,7 +11162,6 @@ BeginPlot
 	x=28,y=35
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=28,y=36
@@ -11261,12 +11369,12 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=29,y=3
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=4
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -11306,42 +11414,42 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=29,y=12
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=13
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=14
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=15
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=16
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=17
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=18
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=19
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -11366,7 +11474,6 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=1
 	isWOfRiver
-	BonusType=BONUS_GOLD
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
 EndPlot
@@ -11450,7 +11557,6 @@ BeginPlot
 	x=29,y=35
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=29,y=36
@@ -11649,7 +11755,7 @@ EndPlot
 BeginPlot
 	x=30,y=3
 	BonusType=BONUS_WHALE
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -11749,6 +11855,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=1
 	isWOfRiver
+	BonusType=BONUS_GOLD
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 EndPlot
@@ -11786,7 +11893,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=30,y=28
@@ -11796,7 +11902,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=30,y=29
@@ -11805,7 +11910,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=30,y=30
@@ -11825,6 +11929,13 @@ BeginPlot
 	x=30,y=32
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=4
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=4,
 EndPlot
 BeginPlot
@@ -11844,7 +11955,6 @@ BeginPlot
 	x=30,y=35
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=30,y=36
@@ -12042,7 +12152,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=31,y=2
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -12190,7 +12300,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=28
@@ -12199,7 +12308,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=29
@@ -12210,7 +12318,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=30
@@ -12218,7 +12325,6 @@ BeginPlot
 	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=31
@@ -12246,13 +12352,11 @@ BeginPlot
 	x=31,y=34
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=35
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=36
@@ -12618,7 +12722,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=28
@@ -12627,7 +12730,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=29
@@ -12635,14 +12737,12 @@ BeginPlot
 	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=30
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=31
@@ -12653,7 +12753,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=32
@@ -12661,26 +12760,22 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=33
 	BonusType=BONUS_CLAM
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=34
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=35
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=36
@@ -13026,7 +13121,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=28
@@ -13035,7 +13129,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=29
@@ -13044,27 +13137,17 @@ BeginPlot
 	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=30
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=31
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=4
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=3
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=32
@@ -13073,25 +13156,21 @@ BeginPlot
 	BonusType=BONUS_OIL
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=33
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=34
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=35
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=36
@@ -13427,7 +13506,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=28
@@ -13436,7 +13514,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=29
@@ -13444,7 +13521,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=30
@@ -13452,13 +13528,11 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=31
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=32
@@ -13467,19 +13541,16 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=33
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=34
 	TerrainType=TERRAIN_COAST
 	PlotType=3
-	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=35
@@ -14845,8 +14916,9 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=38,y=3
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	BonusType=BONUS_ALUMINUM
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=38,y=4
@@ -15231,12 +15303,12 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=39,y=6
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=39,y=7
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -15598,26 +15670,28 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=40,y=4
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	BonusType=BONUS_STONE
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=40,y=5
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=6
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=7
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=8
+	FeatureType=FEATURE_FOREST, FeatureVariety=2
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -15956,17 +16030,17 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=41,y=3
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=4
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=5
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -19720,21 +19794,25 @@ BeginPlot
 	x=51,y=51
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=51,y=52
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=51,y=53
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=51,y=54
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=51,y=55
@@ -20091,12 +20169,14 @@ BeginPlot
 	x=52,y=51
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=52,y=52
 	BonusType=BONUS_CRAB
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=52,y=53
@@ -20483,6 +20563,13 @@ BeginPlot
 	x=53,y=53
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=12
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=5
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=12,
 EndPlot
 BeginPlot
@@ -20529,13 +20616,6 @@ BeginPlot
 	x=53,y=59
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=12
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=0
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=12,
 EndPlot
 BeginPlot
@@ -20895,13 +20975,6 @@ BeginPlot
 	BonusType=BONUS_COW
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=12
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=6
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=12,
 EndPlot
 BeginPlot
@@ -20940,6 +21013,13 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=12
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=2
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=12,
 EndPlot
 BeginPlot
@@ -21179,7 +21259,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player14Culture=16
+		Player14Culture=18
 	EndCity
 	TeamReveal=14,
 EndPlot
@@ -21268,7 +21348,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player11Culture=16
+		Player11Culture=18
 	EndCity
 	TeamReveal=11,
 EndPlot
@@ -21629,6 +21709,7 @@ BeginPlot
 	x=56,y=40
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=14,
 EndPlot
 BeginPlot
 	x=56,y=41
@@ -21678,13 +21759,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=11
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=0
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=11,
 EndPlot
 BeginPlot
@@ -21735,7 +21809,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player12Culture=16
+		Player12Culture=18
 	EndCity
 	TeamReveal=9,12,
 EndPlot
@@ -21999,7 +22073,7 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=57,y=34
@@ -22008,38 +22082,31 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=57,y=35
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=57,y=36
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=57,y=37
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=57,y=38
 	FeatureType=FEATURE_OASIS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=14
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=2
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=14,
 EndPlot
 BeginPlot
@@ -22053,6 +22120,7 @@ BeginPlot
 	BonusType=BONUS_OIL
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=14,
 EndPlot
 BeginPlot
 	x=57,y=41
@@ -22102,6 +22170,13 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=11
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=1
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=9,11,
 EndPlot
 BeginPlot
@@ -22111,7 +22186,7 @@ BeginPlot
 	BonusType=BONUS_HORSE
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=9,
+	TeamReveal=9,11,
 EndPlot
 BeginPlot
 	x=57,y=50
@@ -22396,32 +22471,50 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=58,y=34
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=58,y=35
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=58,y=36
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=0
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=7
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
+	TeamReveal=0,
 EndPlot
 BeginPlot
 	x=58,y=37
 	TerrainType=TERRAIN_DESERT
 	PlotType=0
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=58,y=38
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=14
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=2
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=14,
 EndPlot
 BeginPlot
@@ -22434,6 +22527,7 @@ BeginPlot
 	x=58,y=40
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=14,
 EndPlot
 BeginPlot
 	x=58,y=41
@@ -22487,7 +22581,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=9,
+	TeamReveal=9,11,
 EndPlot
 BeginPlot
 	x=58,y=49
@@ -22495,7 +22589,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=9,12,
+	TeamReveal=9,11,12,
 EndPlot
 BeginPlot
 	x=58,y=50
@@ -22516,7 +22610,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player9Culture=32
+		Player9Culture=36
 	EndCity
 	TeamReveal=9,12,
 EndPlot
@@ -22813,26 +22907,31 @@ BeginPlot
 	x=59,y=36
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=59,y=37
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=59,y=38
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=59,y=39
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=14,
 EndPlot
 BeginPlot
 	x=59,y=40
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=14,
 EndPlot
 BeginPlot
 	x=59,y=41
@@ -23181,13 +23280,6 @@ BeginPlot
 	x=60,y=33
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=0
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=5
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=0,
 EndPlot
 BeginPlot
@@ -23206,12 +23298,14 @@ BeginPlot
 	x=60,y=36
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=60,y=37
 	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=60,y=38
@@ -23222,11 +23316,13 @@ BeginPlot
 	x=60,y=39
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=14,
 EndPlot
 BeginPlot
 	x=60,y=40
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=14,
 EndPlot
 BeginPlot
 	x=60,y=41
@@ -24094,7 +24190,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player7Culture=16
+		Player7Culture=18
 	EndCity
 	TeamReveal=7,
 EndPlot
@@ -24918,13 +25014,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=7
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=1
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=7,
 EndPlot
 BeginPlot
@@ -25292,7 +25381,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=3,
+	TeamReveal=3,9,
 EndPlot
 BeginPlot
 	x=65,y=48
@@ -25308,13 +25397,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=9
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=3
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=9,
 EndPlot
 BeginPlot
@@ -25738,6 +25820,13 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=9
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=3
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=3,9,
 EndPlot
 BeginPlot
@@ -25764,20 +25853,28 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=7,
 EndPlot
 BeginPlot
 	x=66,y=53
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=7
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=2
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
+	TeamReveal=7,9,
 EndPlot
 BeginPlot
 	x=66,y=54
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
+	TeamReveal=7,9,
 EndPlot
 BeginPlot
 	x=66,y=55
@@ -26137,7 +26234,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player3Culture=22
+		Player3Culture=28
 	EndCity
 	TeamReveal=3,
 EndPlot
@@ -26166,19 +26263,19 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=3,
+	TeamReveal=3,9,
 EndPlot
 BeginPlot
 	x=67,y=48
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=3,
+	TeamReveal=3,9,
 EndPlot
 BeginPlot
 	x=67,y=49
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
-	TeamReveal=3,
+	TeamReveal=3,9,
 EndPlot
 BeginPlot
 	x=67,y=50
@@ -26196,7 +26293,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
+	TeamReveal=7,9,
 EndPlot
 BeginPlot
 	x=67,y=53
@@ -26204,13 +26301,13 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
+	TeamReveal=7,9,
 EndPlot
 BeginPlot
 	x=67,y=54
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=9,
+	TeamReveal=7,9,
 EndPlot
 BeginPlot
 	x=67,y=55
@@ -26952,7 +27049,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player0Culture=44
+		Player0Culture=56
 	EndCity
 	TeamReveal=0,
 EndPlot
@@ -28683,7 +28780,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player13Culture=32
+		Player13Culture=36
 	EndCity
 	TeamReveal=9,13,
 EndPlot
@@ -29052,6 +29149,7 @@ BeginPlot
 	x=74,y=48
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=74,y=49
@@ -29064,7 +29162,7 @@ BeginPlot
 	BonusType=BONUS_COAL
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=74,y=51
@@ -29075,7 +29173,7 @@ BeginPlot
 	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=74,y=52
@@ -29373,7 +29471,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player10Culture=16
+		Player10Culture=18
 	EndCity
 	TeamReveal=5,10,
 EndPlot
@@ -29400,6 +29498,7 @@ BeginPlot
 	x=75,y=39
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=5,
 EndPlot
 BeginPlot
 	x=75,y=40
@@ -29414,13 +29513,6 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=5
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=2
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=5,
 EndPlot
 BeginPlot
@@ -29470,37 +29562,39 @@ BeginPlot
 	BonusType=BONUS_SHEEP
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=75,y=50
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=75,y=51
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=75,y=52
 	BonusType=BONUS_IRON
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=75,y=53
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=75,y=54
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=75,y=55
@@ -29516,13 +29610,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=3
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=3
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=3,13,
 EndPlot
 BeginPlot
@@ -29871,6 +29958,7 @@ BeginPlot
 	x=76,y=49
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=76,y=50
@@ -29878,6 +29966,14 @@ BeginPlot
 	isWOfRiver
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=3
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=76,y=51
@@ -29885,24 +29981,25 @@ BeginPlot
 	isWOfRiver
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=76,y=52
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=76,y=53
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=76,y=54
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=76,y=55
@@ -30186,7 +30283,7 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	TeamReveal=5,
+	TeamReveal=5,10,
 EndPlot
 BeginPlot
 	x=77,y=39
@@ -30195,7 +30292,14 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	TeamReveal=5,
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=5
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=3
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
+	TeamReveal=5,10,
 EndPlot
 BeginPlot
 	x=77,y=40
@@ -30264,6 +30368,7 @@ BeginPlot
 	x=77,y=49
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=77,y=50
@@ -30271,11 +30376,13 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=77,y=51
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=77,y=52
@@ -30285,6 +30392,7 @@ BeginPlot
 	isWOfRiver
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=77,y=53
@@ -30292,6 +30400,7 @@ BeginPlot
 	isWOfRiver
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=77,y=54
@@ -30299,7 +30408,7 @@ BeginPlot
 	isWOfRiver
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=77,y=55
@@ -30310,13 +30419,13 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=77,y=56
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	TeamReveal=13,
+	TeamReveal=3,13,
 EndPlot
 BeginPlot
 	x=77,y=57
@@ -30586,6 +30695,13 @@ BeginPlot
 	FeatureType=FEATURE_FLOOD_PLAINS, FeatureVariety=0
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=10
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=7
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=5,10,
 EndPlot
 BeginPlot
@@ -30665,26 +30781,31 @@ BeginPlot
 	x=78,y=50
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=78,y=51
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=78,y=52
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=78,y=53
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=78,y=54
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=3,
 EndPlot
 BeginPlot
 	x=78,y=55
@@ -30964,13 +31085,6 @@ BeginPlot
 	x=79,y=37
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=10
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=7
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=5,10,
 EndPlot
 BeginPlot
@@ -30990,7 +31104,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=5,
+	TeamReveal=5,10,
 EndPlot
 BeginPlot
 	x=79,y=41
@@ -31370,7 +31484,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=5,
+	TeamReveal=5,10,
 EndPlot
 BeginPlot
 	x=80,y=41
@@ -32146,7 +32260,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player5Culture=16
+		Player5Culture=18
 	EndCity
 	TeamReveal=5,
 EndPlot
@@ -33339,21 +33453,25 @@ BeginPlot
 	x=85,y=49
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=85,y=50
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=85,y=51
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=85,y=52
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=85,y=53
@@ -33398,6 +33516,13 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=13
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=7
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=13,
 EndPlot
 BeginPlot
@@ -33710,27 +33835,39 @@ BeginPlot
 	x=86,y=49
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=86,y=50
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=86,y=51
 	BonusType=BONUS_COPPER
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=8
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=5
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=86,y=52
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=86,y=53
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=86,y=54
@@ -34095,16 +34232,19 @@ BeginPlot
 	BonusType=BONUS_SHEEP
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=87,y=50
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=87,y=51
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=87,y=52
@@ -34153,13 +34293,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=13
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=2
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=13,
 EndPlot
 BeginPlot
@@ -34484,16 +34617,19 @@ BeginPlot
 	x=88,y=49
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=88,y=50
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=88,y=51
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	TeamReveal=8,
 EndPlot
 BeginPlot
 	x=88,y=52
@@ -34509,13 +34645,6 @@ BeginPlot
 	RiverWEDirection=3
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=8
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=5
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=8,
 EndPlot
 BeginPlot
@@ -35230,7 +35359,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player1Culture=22
+		Player1Culture=28
 	EndCity
 	TeamReveal=1,
 EndPlot
@@ -38325,6 +38454,7 @@ BeginPlot
 	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=98,y=42
@@ -38707,13 +38837,6 @@ BeginPlot
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=1
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=1
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=1,
 EndPlot
 BeginPlot
@@ -38732,6 +38855,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=99,y=42
@@ -38807,7 +38931,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player8Culture=16
+		Player8Culture=18
 	EndCity
 	TeamReveal=8,
 EndPlot
@@ -39120,6 +39244,7 @@ BeginPlot
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=100,y=38
@@ -39128,6 +39253,13 @@ BeginPlot
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=1
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=3
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=1,
 EndPlot
 BeginPlot
@@ -39151,6 +39283,7 @@ BeginPlot
 	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=100,y=42
@@ -39528,6 +39661,7 @@ BeginPlot
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=101,y=38
@@ -39535,11 +39669,13 @@ BeginPlot
 	FeatureType=FEATURE_JUNGLE, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=101,y=39
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=101,y=40
@@ -39956,6 +40092,7 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=102,y=41
@@ -40014,7 +40151,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player2Culture=22
+		Player2Culture=28
 	EndCity
 	TeamReveal=2,
 EndPlot
@@ -41658,13 +41795,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=2
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=1
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=2,
 EndPlot
 BeginPlot
@@ -41868,7 +41998,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player16Culture=12
+		Player16Culture=14
 	EndCity
 	TeamReveal=16,
 EndPlot
@@ -42449,12 +42579,14 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=108,y=52
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=108,y=53
@@ -42463,6 +42595,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=108,y=54
@@ -42471,6 +42604,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=108,y=55
@@ -42850,12 +42984,21 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=109,y=52
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=2
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=3
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=109,y=53
@@ -42863,12 +43006,14 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=109,y=54
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=109,y=55
@@ -43245,6 +43390,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=110,y=52
@@ -43252,6 +43398,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=110,y=53
@@ -43262,6 +43409,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=2
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=2
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=110,y=54
@@ -43270,6 +43418,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=110,y=55
@@ -44190,7 +44339,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WORKER
 		BuildingType=BUILDING_PALACE
-		Player15Culture=12
+		Player15Culture=14
 	EndCity
 	TeamReveal=15,
 EndPlot
@@ -44219,13 +44368,6 @@ BeginPlot
 	x=113,y=15
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=16
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=2
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=16,
 EndPlot
 BeginPlot
@@ -44395,7 +44537,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player6Culture=16
+		Player6Culture=18
 	EndCity
 	TeamReveal=6,
 EndPlot
@@ -44629,6 +44771,7 @@ BeginPlot
 	x=114,y=17
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=16,
 EndPlot
 BeginPlot
 	x=114,y=18
@@ -44813,14 +44956,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=6
-		Damage=0
-		Level=1, Experience=0
-		PromotionType=PROMOTION_COMBAT1
-		FacingDirection=4
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=6,
 EndPlot
 BeginPlot
@@ -44828,6 +44963,14 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=6
+		Damage=0
+		Level=1, Experience=0
+		PromotionType=PROMOTION_COMBAT1
+		FacingDirection=0
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=6,
 EndPlot
 BeginPlot
@@ -45028,23 +45171,33 @@ BeginPlot
 	x=115,y=14
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
-	TeamReveal=15,
+	TeamReveal=15,16,
 EndPlot
 BeginPlot
 	x=115,y=15
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=16,
 EndPlot
 BeginPlot
 	x=115,y=16
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=16
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=1
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
+	TeamReveal=16,
 EndPlot
 BeginPlot
 	x=115,y=17
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=16,
 EndPlot
 BeginPlot
 	x=115,y=18
@@ -45410,7 +45563,7 @@ BeginPlot
 	x=116,y=13
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=15,
+	TeamReveal=15,16,
 EndPlot
 BeginPlot
 	x=116,y=14
@@ -45418,28 +45571,32 @@ BeginPlot
 	RiverWEDirection=3
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=15,
+	TeamReveal=15,16,
 EndPlot
 BeginPlot
 	x=116,y=15
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=16,
 EndPlot
 BeginPlot
 	x=116,y=16
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
+	TeamReveal=16,
 EndPlot
 BeginPlot
 	x=116,y=17
 	TerrainType=TERRAIN_PLAINS
 	PlotType=0
+	TeamReveal=16,
 EndPlot
 BeginPlot
 	x=116,y=18
 	TerrainType=TERRAIN_PLAINS
 	PlotType=0
+	TeamReveal=16,
 EndPlot
 BeginPlot
 	x=116,y=19
@@ -45801,12 +45958,14 @@ BeginPlot
 	x=117,y=16
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
+	TeamReveal=16,
 EndPlot
 BeginPlot
 	x=117,y=17
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
+	TeamReveal=16,
 EndPlot
 BeginPlot
 	x=117,y=18
