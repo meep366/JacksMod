@@ -4742,7 +4742,7 @@
 					<ProductionTraitType>TRAIT_BILLISH</ProductionTraitType>
 					<iProductionTrait>100</iProductionTrait>
 				</ProductionTrait>
-			<ProductionTraits/>
+			</ProductionTraits>
 			<HappinessTraits/>
 			<NoBonus>NONE</NoBonus>
 			<PowerBonus>NONE</PowerBonus>
