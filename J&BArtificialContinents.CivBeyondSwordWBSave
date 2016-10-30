@@ -587,7 +587,7 @@ EndPlayer
 BeginPlayer
 	Team=17
 	LeaderType=LEADER_FRANKLIN_ROOSEVELT
-	LeaderName=Roosevelt
+	LeaderName=Jack
 	CivDesc=American Empire
 	CivShortDesc=TXT_KEY_CIV_AMERICA_SHORT_DESC
 	CivAdjective=TXT_KEY_CIV_AMERICA_ADJECTIVE
