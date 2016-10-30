@@ -20,8 +20,8 @@ BeginTeam
 	TeamID=0
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_AGRICULTURE
-	EspionageTeam=3, EspionageAmount=72
-	EspionageEverAmount=92
+	EspionageTeam=3, EspionageAmount=78
+	EspionageEverAmount=98
 	ContactWithTeam=0
 	ContactWithTeam=3
 	ContactWithTeam=14
@@ -31,7 +31,7 @@ BeginTeam
 	TeamID=1
 	Tech=TECH_MYSTICISM
 	Tech=TECH_MINING
-	EspionageEverAmount=68
+	EspionageEverAmount=72
 	ContactWithTeam=1
 	RevealMap=0
 EndTeam
@@ -39,8 +39,8 @@ BeginTeam
 	TeamID=2
 	Tech=TECH_AGRICULTURE
 	Tech=TECH_MINING
-	EspionageTeam=8, EspionageAmount=96
-	EspionageEverAmount=100
+	EspionageTeam=8, EspionageAmount=102
+	EspionageEverAmount=106
 	ContactWithTeam=2
 	ContactWithTeam=8
 	RevealMap=0
@@ -49,8 +49,8 @@ BeginTeam
 	TeamID=3
 	Tech=TECH_FISHING
 	Tech=TECH_HUNTING
-	EspionageTeam=0, EspionageAmount=72
-	EspionageEverAmount=92
+	EspionageTeam=0, EspionageAmount=78
+	EspionageEverAmount=98
 	ContactWithTeam=0
 	ContactWithTeam=3
 	ContactWithTeam=13
@@ -1712,19 +1712,16 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=3,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=3,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=3,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -1826,8 +1823,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=3,y=22
-	TerrainType=TERRAIN_GRASS
-	PlotType=0
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=3,y=23
@@ -1901,8 +1898,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=3,y=37
-	TerrainType=TERRAIN_PLAINS
-	PlotType=0
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=3,y=38
@@ -2026,13 +2023,11 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=3,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=3,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -2048,31 +2043,26 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=3,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=3,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -2143,42 +2133,42 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4,y=16
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=17
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=18
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=19
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=20
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=21
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=22
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=23
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -2243,17 +2233,17 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4,y=36
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=37
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=38
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -2378,7 +2368,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -2389,37 +2378,31 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=4,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=5,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=5,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=5,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -2725,19 +2708,16 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=5,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=5,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=5,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -2748,19 +2728,16 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=5,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=6,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=6,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3071,19 +3048,16 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=6,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=6,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=6,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3094,19 +3068,16 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=6,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=7,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=7,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3417,7 +3388,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=7,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3438,25 +3408,21 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=7,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=8,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=8,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=8,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3772,7 +3738,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=8,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -3783,25 +3748,21 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=8,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=9,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=9,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=9,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -4117,37 +4078,31 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=9,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=9,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=9,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=10,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=10,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=10,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -4463,31 +4418,26 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=10,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=10,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=10,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -4809,31 +4759,26 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=11,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=12,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=12,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -5154,31 +5099,26 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=12,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=12,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=12,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=13,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=13,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -5499,31 +5439,26 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=13,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=13,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=13,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=14,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=14,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -5844,30 +5779,26 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=14,y=65
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=14,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=14,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=15,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=15,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -6189,30 +6120,26 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=15,y=65
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=15,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=15,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=16,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=16,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -6533,30 +6460,26 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=16,y=65
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=16,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=16,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=17,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=17,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -6872,37 +6795,31 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=17,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=17,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=17,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=17,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -7218,35 +7135,31 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=18,y=64
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=19,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=19,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -7558,35 +7471,31 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=63
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=19,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=19,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=19,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=19,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=20,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -7897,40 +7806,36 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=20,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=20,y=63
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=20,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=20,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=20,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=20,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=21,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -8241,40 +8146,36 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=21,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=21,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=21,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=21,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=21,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -8585,40 +8486,36 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=22,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=23,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -8929,43 +8826,36 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=23,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=23,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=23,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=23,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=23,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=23,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -9280,48 +9170,41 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -9626,51 +9509,46 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=25,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -9979,52 +9857,46 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=62
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -10335,54 +10207,46 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=28,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=28,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -10604,20 +10468,20 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=28,y=44
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=28,y=45
 	StartingPlot
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=28,y=46
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=17,
 EndPlot
@@ -10694,52 +10558,46 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=28,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=28,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=28,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=28,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=28,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=28,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=28,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -10961,19 +10819,26 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=29,y=44
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=29,y=45
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
+	BeginUnit
+		UnitType=UNIT_SETTLER, UnitOwner=17
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_SETTLE
+	EndUnit
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=29,y=46
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=17,
 EndPlot
@@ -11050,46 +10915,41 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=29,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=62
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=29,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=30,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -11112,26 +10972,31 @@ BeginPlot
 	x=30,y=4
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=30,y=5
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=30,y=6
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=30,y=7
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=30,y=8
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=30,y=9
@@ -11317,19 +11182,19 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=30,y=44
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=30,y=45
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=30,y=46
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=17,
 EndPlot
@@ -11406,46 +11271,41 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=30,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=30,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=30,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=30,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=30,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=30,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=30,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=31,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -11468,26 +11328,31 @@ BeginPlot
 	x=31,y=4
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=5
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=6
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=7
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=8
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=31,y=9
@@ -11666,26 +11531,31 @@ BeginPlot
 	x=31,y=43
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=31,y=44
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=31,y=45
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=31,y=46
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=31,y=47
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=31,y=48
@@ -11759,40 +11629,36 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=31,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=31,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=31,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=31,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=31,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=31,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=32,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -11815,26 +11681,38 @@ BeginPlot
 	x=32,y=4
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=5
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=6
-	TerrainType=TERRAIN_OCEAN
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
+	BeginUnit
+		UnitType=UNIT_SETTLER, UnitOwner=4
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_SETTLE
+	EndUnit
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=7
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=8
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=32,y=9
@@ -12098,47 +11976,42 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=32,y=61
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=32,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=32,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=32,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=32,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=32,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=32,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=33,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -12160,26 +12033,31 @@ BeginPlot
 	x=33,y=4
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=5
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=6
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=7
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=8
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=33,y=9
@@ -12449,47 +12327,43 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=33,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=33,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=33,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=33,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=33,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=33,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=34,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=1
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=4,
 EndPlot
@@ -12508,26 +12382,31 @@ BeginPlot
 	x=34,y=4
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=5
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=6
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=7
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=8
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
+	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=34,y=9
@@ -12796,46 +12675,43 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=34,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=34,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=34,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=34,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=34,y=66
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=34,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=35,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=4,
 EndPlot
 BeginPlot
 	x=35,y=1
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=4,17,
 EndPlot
@@ -13132,71 +13008,59 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=35,y=60
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=35,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=35,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=35,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=35,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=35,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=35,y=66
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=35,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SETTLER, UnitOwner=4
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_SETTLE
-	EndUnit
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 	TeamReveal=4,17,
 EndPlot
 BeginPlot
 	x=36,y=1
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=4,17,
 EndPlot
 BeginPlot
 	x=36,y=2
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=4,17,
 EndPlot
@@ -13482,76 +13346,64 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=36,y=59
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=60
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=61
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=65
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=66
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
-	BeginUnit
-		UnitType=UNIT_SETTLER, UnitOwner=17
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=4
-		UnitAIType=UNITAI_SETTLE
-	EndUnit
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 	TeamReveal=4,17,
 EndPlot
 BeginPlot
 	x=37,y=1
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 	TeamReveal=4,17,
 EndPlot
 BeginPlot
 	x=37,y=2
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=4,
 EndPlot
@@ -13838,72 +13690,64 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=37,y=59
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=60
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=61
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=63
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=65
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=38,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=38,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=38,y=2
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=17,
 EndPlot
@@ -14190,63 +14034,58 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=38,y=59
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=38,y=60
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=38,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=38,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=38,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=38,y=64
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=38,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=38,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=38,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=39,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=39,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=17,
 EndPlot
@@ -14538,67 +14377,62 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=39,y=59
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=39,y=60
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=39,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=39,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=39,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=39,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=39,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=39,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=39,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -14884,67 +14718,62 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=40,y=59
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=60
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=61
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=62
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=40,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -15224,71 +15053,67 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=41,y=58
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=59
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=60
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=61
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=62
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=41,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -15438,17 +15263,17 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=42,y=32
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=33
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=34
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -15573,67 +15398,62 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=42,y=59
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=60
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=61
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=62
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=42,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -15783,17 +15603,17 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=43,y=32
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=33
-	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=34
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -15918,70 +15738,62 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=43,y=59
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=60
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=61
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=63
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=43,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=2
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -16131,17 +15943,17 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=44,y=32
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=33
-	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=34
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -16276,52 +16088,46 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=44,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=62
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=63
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=44,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=1
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
@@ -16472,30 +16278,27 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=45,y=31
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=32
-	BonusType=BONUS_FISH
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=33
-	BonusType=BONUS_STONE
-	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=34
-	BonusType=BONUS_CLAM
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=35
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -16630,39 +16433,36 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=45,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=63
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=46,y=0
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -16823,18 +16623,18 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=46,y=32
-	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=46,y=33
-	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=46,y=34
-	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=46,y=35
@@ -16978,33 +16778,28 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=46,y=63
-	BonusType=BONUS_DEER
-	FeatureType=FEATURE_FOREST, FeatureVariety=1
-	TerrainType=TERRAIN_TUNDRA
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=46,y=64
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=46,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=46,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=46,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_SNOW
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=47,y=0
@@ -17303,55 +17098,48 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=47,y=59
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=47,y=60
-	BonusType=BONUS_FISH
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=47,y=61
-	RiverNSDirection=2
-	isWOfRiver
 	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	PlotType=0
 EndPlot
 BeginPlot
 	x=47,y=62
-	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	PlotType=0
 EndPlot
 BeginPlot
 	x=47,y=63
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=47,y=64
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=47,y=65
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=47,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=47,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	TerrainType=TERRAIN_GRASS
+	PlotType=0
 EndPlot
 BeginPlot
 	x=48,y=0
@@ -17646,8 +17434,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=48,y=58
-	TerrainType=TERRAIN_GRASS
-	PlotType=0
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=48,y=59
@@ -17661,16 +17449,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=48,y=61
-	TerrainType=TERRAIN_SNOW
-	PlotType=0
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=48,y=62
-	isNOfRiver
-	RiverWEDirection=3
-	FeatureType=FEATURE_FOREST, FeatureVariety=2
-	TerrainType=TERRAIN_TUNDRA
-	PlotType=1
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=48,y=63
@@ -17684,18 +17469,16 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=48,y=65
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=48,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=48,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -17993,32 +17776,32 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=49,y=58
-	TerrainType=TERRAIN_GRASS
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=49,y=59
-	TerrainType=TERRAIN_GRASS
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=49,y=60
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=49,y=61
-	TerrainType=TERRAIN_GRASS
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=49,y=62
-	TerrainType=TERRAIN_TUNDRA
-	PlotType=1
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=49,y=63
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -18033,14 +17816,12 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=49,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=49,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -18349,27 +18130,27 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=50,y=59
-	TerrainType=TERRAIN_GRASS
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=50,y=60
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=50,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=50,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=50,y=63
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -18384,14 +18165,12 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=50,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=50,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -18712,52 +18491,50 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=51,y=59
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=51,y=60
-	TerrainType=TERRAIN_GRASS
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=51,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=51,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=51,y=63
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=51,y=64
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=51,y=65
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=51,y=66
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=51,y=67
-	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -19098,39 +18875,39 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=52,y=61
-	TerrainType=TERRAIN_GRASS
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=52,y=62
-	TerrainType=TERRAIN_GRASS
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=52,y=63
-	TerrainType=TERRAIN_GRASS
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=52,y=64
-	TerrainType=TERRAIN_SNOW
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=52,y=65
-	TerrainType=TERRAIN_SNOW
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=52,y=66
-	TerrainType=TERRAIN_SNOW
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=52,y=67
-	TerrainType=TERRAIN_SNOW
-	PlotType=0
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=53,y=0
@@ -19496,39 +19273,39 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=53,y=61
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 	TeamReveal=12,
 EndPlot
 BeginPlot
 	x=53,y=62
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=53,y=63
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=53,y=64
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=53,y=65
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=53,y=66
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=53,y=67
 	FeatureType=FEATURE_ICE, FeatureVariety=0
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -19747,14 +19524,14 @@ BeginPlot
 	x=54,y=39
 	TerrainType=TERRAIN_DESERT
 	PlotType=0
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=54,y=40
 	BonusType=BONUS_WINE
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=54,y=41
@@ -20149,19 +19926,19 @@ BeginPlot
 	x=55,y=37
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=55,y=38
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=55,y=39
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	TeamReveal=14,
+	TeamReveal=0,14,
 EndPlot
 BeginPlot
 	x=55,y=40
@@ -20568,6 +20345,13 @@ BeginPlot
 	x=56,y=38
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=0
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=5
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=0,14,
 EndPlot
 BeginPlot
@@ -20985,13 +20769,6 @@ BeginPlot
 	x=57,y=39
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=0
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=7
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=0,14,
 EndPlot
 BeginPlot
@@ -25107,7 +24884,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player3Culture=34
+		Player3Culture=36
 	EndCity
 	TeamReveal=3,
 EndPlot
@@ -25922,7 +25699,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player0Culture=68
+		Player0Culture=72
 	EndCity
 	TeamReveal=0,
 EndPlot
@@ -30425,6 +30202,13 @@ BeginPlot
 	x=80,y=50
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
+	BeginUnit
+		UnitType=UNIT_SCOUT, UnitOwner=3
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=4
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=3,
 EndPlot
 BeginPlot
@@ -30440,13 +30224,6 @@ BeginPlot
 	BonusType=BONUS_STONE
 	TerrainType=TERRAIN_DESERT
 	PlotType=1
-	BeginUnit
-		UnitType=UNIT_SCOUT, UnitOwner=3
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=1
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=3,
 EndPlot
 BeginPlot
@@ -34264,7 +34041,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player1Culture=34
+		Player1Culture=36
 	EndCity
 	TeamReveal=1,
 EndPlot
@@ -38189,6 +37966,7 @@ BeginPlot
 	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=0
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=100,y=43
@@ -38582,13 +38360,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=1
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=1
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=1,
 EndPlot
 BeginPlot
@@ -38608,6 +38379,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=101,y=43
@@ -39010,6 +38782,13 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=1
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=1
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=1,
 EndPlot
 BeginPlot
@@ -39021,6 +38800,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=102,y=43
@@ -39063,7 +38843,7 @@ BeginPlot
 		CityPopulation=1
 		ProductionUnit=UNIT_WARRIOR
 		BuildingType=BUILDING_PALACE
-		Player2Culture=34
+		Player2Culture=36
 	EndCity
 	TeamReveal=2,
 EndPlot
@@ -39408,6 +39188,7 @@ BeginPlot
 	RiverWEDirection=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=103,y=41
@@ -39415,6 +39196,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=103,y=42
@@ -39422,6 +39204,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=1,
 EndPlot
 BeginPlot
 	x=103,y=43
@@ -41935,6 +41718,7 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=2
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=109,y=57
@@ -42327,13 +42111,6 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
-	BeginUnit
-		UnitType=UNIT_WARRIOR, UnitOwner=2
-		Damage=0
-		Level=1, Experience=0
-		FacingDirection=7
-		UnitAIType=UNITAI_EXPLORE
-	EndUnit
 	TeamReveal=2,
 EndPlot
 BeginPlot
@@ -42341,12 +42118,20 @@ BeginPlot
 	FeatureType=FEATURE_FOREST, FeatureVariety=2
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=1
+	BeginUnit
+		UnitType=UNIT_WARRIOR, UnitOwner=2
+		Damage=0
+		Level=1, Experience=0
+		FacingDirection=0
+		UnitAIType=UNITAI_EXPLORE
+	EndUnit
 	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=110,y=56
 	TerrainType=TERRAIN_TUNDRA
 	PlotType=0
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=110,y=57
@@ -42749,6 +42534,7 @@ BeginPlot
 	x=111,y=57
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=111,y=58
@@ -43127,6 +42913,7 @@ BeginPlot
 	x=112,y=57
 	TerrainType=TERRAIN_COAST
 	PlotType=3
+	TeamReveal=2,
 EndPlot
 BeginPlot
 	x=112,y=58
