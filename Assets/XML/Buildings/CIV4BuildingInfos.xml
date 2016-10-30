@@ -4737,6 +4737,11 @@
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
 			<PrereqBonuses/>
+			<ProductionTraits>
+				<ProductionTrait>
+					<ProductionTraitType>TRAIT_BILLISH</ProductionTraitType>
+					<iProductionTrait>100</iProductionTrait>
+				</ProductionTrait>
 			<ProductionTraits/>
 			<HappinessTraits/>
 			<NoBonus>NONE</NoBonus>
@@ -4907,6 +4912,10 @@
 			<ProductionTraits>
 				<ProductionTrait>
 					<ProductionTraitType>TRAIT_INDUSTRIOUS</ProductionTraitType>
+					<iProductionTrait>100</iProductionTrait>
+				</ProductionTrait>
+				<ProductionTrait>
+					<ProductionTraitType>TRAIT_BILLISH</ProductionTraitType>
 					<iProductionTrait>100</iProductionTrait>
 				</ProductionTrait>
 			</ProductionTraits>
@@ -7597,10 +7606,6 @@
 					<ProductionTraitType>TRAIT_CREATIVE</ProductionTraitType>
 					<iProductionTrait>100</iProductionTrait>
 				</ProductionTrait>
-				<ProductionTrait>
-					<ProductionTraitType>TRAIT_BILLISH</ProductionTraitType>
-					<iProductionTrait>100</iProductionTrait>
-				</ProductionTrait>
 			</ProductionTraits>
 			<HappinessTraits/>
 			<NoBonus>NONE</NoBonus>
@@ -7782,10 +7787,6 @@
 			<ProductionTraits>
 				<ProductionTrait>
 					<ProductionTraitType>TRAIT_CREATIVE</ProductionTraitType>
-					<iProductionTrait>100</iProductionTrait>
-				</ProductionTrait>
-				<ProductionTrait>
-					<ProductionTraitType>TRAIT_BILLISH</ProductionTraitType>
 					<iProductionTrait>100</iProductionTrait>
 				</ProductionTrait>
 			</ProductionTraits>
