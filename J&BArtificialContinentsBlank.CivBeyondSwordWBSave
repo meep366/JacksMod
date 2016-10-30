@@ -14,7 +14,7 @@ BeginGame
 	TargetScore=0
 	StartYear=-4000
 	Description=
-	ModPath=
+	ModPath=Jack's Mod
 EndGame
 BeginTeam
 	TeamID=0
