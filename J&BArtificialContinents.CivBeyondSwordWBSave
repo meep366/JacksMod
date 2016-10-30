@@ -6002,6 +6002,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=14,y=39
+	BonusType=BONUS_DEER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -6022,6 +6023,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=14,y=43
+	BonusType=BONUS_FISH
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -6075,6 +6077,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=14,y=52
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -6085,6 +6088,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=14,y=54
+	BonusType=BONUS_COW
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -6095,6 +6099,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=14,y=56
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -6397,6 +6402,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=15,y=38
+	BonusType=BONUS_COPPER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -6435,6 +6441,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=15,y=45
+	BonusType=BONUS_PIG
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -6453,6 +6460,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=15,y=48
+	BonusType=BONUS_IVORY
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -6808,6 +6816,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=16,y=35
+	BonusType=BONUS_SUGAR
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -6858,6 +6867,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=16,y=43
+	BonusType=BONUS_COPPER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -6885,6 +6895,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=16,y=48
+	BonusType=BONUS_MARBLE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -7315,6 +7326,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=17,y=52
+	BonusType=BONUS_FUR
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -7340,6 +7352,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=17,y=57
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8012,6 +8025,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=36
+	BonusType=BONUS_CRAB
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -8023,6 +8037,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=38
+	BonusType=BONUS_MARBLE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8056,6 +8071,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=43
+	BonusType=BONUS_DYE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8066,6 +8082,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=45
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8098,6 +8115,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=51
+	BonusType=BONUS_CORN
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8113,6 +8131,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=54
+	BonusType=BONUS_SILK
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8133,6 +8152,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=58
+	BonusType=BONUS_CLAM
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -8480,6 +8500,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=20,y=48
+	BonusType=BONUS_ALUMINUM
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8818,6 +8839,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=38
+	BonusType=BONUS_SPICES
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8833,6 +8855,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=41
+	BonusType=BONUS_SILVER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8843,6 +8866,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=43
+	BonusType=BONUS_HORSE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8899,6 +8923,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=53
+	BonusType=BONUS_GEMS
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -8926,6 +8951,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=58
+	BonusType=BONUS_INCENSE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -9977,6 +10003,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=38
+	BonusType=BONUS_STONE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=17,
@@ -10003,6 +10030,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=43
+	BonusType=BONUS_IRON
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -10032,6 +10060,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=48
+	BonusType=BONUS_FUR
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -10059,6 +10088,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=53
+	BonusType=BONUS_STONE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -10074,6 +10104,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=56
+	BonusType=BONUS_CORN
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -10357,6 +10388,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=25,y=36
+	BonusType=BONUS_FISH
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 	TeamReveal=17,
@@ -10397,6 +10429,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=25,y=42
+	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -10417,6 +10450,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=25,y=46
+	BonusType=BONUS_HORSE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -10795,6 +10829,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=41
+	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -10810,6 +10845,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=44
+	BonusType=BONUS_WINE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -11217,6 +11253,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=47
+	BonusType=BONUS_SILK
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -11252,6 +11289,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=53
+	BonusType=BONUS_DEER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -11275,6 +11313,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=57
+	BonusType=BONUS_GOLD
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=17,
@@ -11287,6 +11326,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=59
+	BonusType=BONUS_WINE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -11582,6 +11622,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=28,y=42
+	BonusType=BONUS_SHEEP
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -12019,6 +12060,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=29,y=48
+	BonusType=BONUS_DYE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -12087,6 +12129,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=29,y=59
+	BonusType=BONUS_SUGAR
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -12352,6 +12395,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=30,y=38
+	BonusType=BONUS_IRON
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -12385,6 +12429,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=30,y=44
+	BonusType=BONUS_COAL
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -12442,11 +12487,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=30,y=53
+	BonusType=BONUS_OIL
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=30,y=54
+	BonusType=BONUS_PIG
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=17,
@@ -12728,6 +12775,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=31,y=35
+	BonusType=BONUS_RICE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -12801,6 +12849,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=31,y=48
+	BonusType=BONUS_ALUMINUM
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -12843,6 +12892,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=31,y=56
+	BonusType=BONUS_INCENSE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -13235,6 +13285,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=32,y=58
+	BonusType=BONUS_COW
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -13556,6 +13607,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=33,y=47
+	BonusType=BONUS_OIL
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -13877,6 +13929,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=34,y=35
+	BonusType=BONUS_BANANA
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -13909,6 +13962,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=34,y=41
+	BonusType=BONUS_COAL
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -13961,6 +14015,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=34,y=51
+	BonusType=BONUS_BANANA
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -14004,6 +14059,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=34,y=58
+	BonusType=BONUS_GOLD
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -14281,6 +14337,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=35,y=38
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -14291,6 +14348,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=35,y=40
+	BonusType=BONUS_SILVER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -14314,6 +14372,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=35,y=44
+	BonusType=BONUS_SHEEP
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -14337,6 +14396,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=35,y=48
+	BonusType=BONUS_CRAB
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -14403,6 +14463,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=35,y=58
+	BonusType=BONUS_SPICES
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -14661,6 +14722,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=36,y=36
+	BonusType=BONUS_WHALE
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -14781,6 +14843,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=36,y=58
+	BonusType=BONUS_CLAM
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -15129,6 +15192,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=37,y=54
+	BonusType=BONUS_GEMS
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
