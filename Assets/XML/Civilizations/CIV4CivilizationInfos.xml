@@ -3232,8 +3232,8 @@
 			</Cities>
 			<Buildings>
 				<Building>
-					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
-					<BuildingType>BUILDING_ROMAN_FORUM</BuildingType>
+					<BuildingClassType>BUILDINGCLASS_LEVEE</BuildingClassType>
+					<BuildingType>BUILDING_NETHERLANDS_DIKE</BuildingType>
 				</Building>
 			</Buildings>
 			<Units>
