@@ -20,18 +20,13 @@ BeginTeam
 	TeamID=0
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_AGRICULTURE
-	EspionageTeam=3, EspionageAmount=78
-	EspionageEverAmount=98
 	ContactWithTeam=0
-	ContactWithTeam=3
-	ContactWithTeam=14
 	RevealMap=0
 EndTeam
 BeginTeam
 	TeamID=1
 	Tech=TECH_MYSTICISM
 	Tech=TECH_MINING
-	EspionageEverAmount=72
 	ContactWithTeam=1
 	RevealMap=0
 EndTeam
@@ -39,48 +34,34 @@ BeginTeam
 	TeamID=2
 	Tech=TECH_AGRICULTURE
 	Tech=TECH_MINING
-	EspionageTeam=8, EspionageAmount=102
-	EspionageEverAmount=106
 	ContactWithTeam=2
-	ContactWithTeam=8
 	RevealMap=0
 EndTeam
 BeginTeam
 	TeamID=3
 	Tech=TECH_FISHING
 	Tech=TECH_HUNTING
-	EspionageTeam=0, EspionageAmount=78
-	EspionageEverAmount=98
-	ContactWithTeam=0
 	ContactWithTeam=3
-	ContactWithTeam=13
 	RevealMap=0
 EndTeam
 BeginTeam
 	TeamID=4
 	Tech=TECH_FISHING
 	Tech=TECH_MINING
-	EspionageEverAmount=36
 	ContactWithTeam=4
-	ContactWithTeam=17
 	RevealMap=0
 EndTeam
 BeginTeam
 	TeamID=5
-	Tech=TECH_THE_WHEEL
 	Tech=TECH_AGRICULTURE
 	Tech=TECH_HUNTING
-	EspionageTeam=10, EspionageAmount=5
-	EspionageEverAmount=37
 	ContactWithTeam=5
-	ContactWithTeam=10
 	RevealMap=0
 EndTeam
 BeginTeam
 	TeamID=6
 	Tech=TECH_FISHING
 	Tech=TECH_THE_WHEEL
-	EspionageEverAmount=36
 	ContactWithTeam=6
 	RevealMap=0
 EndTeam
@@ -88,20 +69,13 @@ BeginTeam
 	TeamID=7
 	Tech=TECH_HUNTING
 	Tech=TECH_MINING
-	EspionageTeam=9, EspionageAmount=48
-	EspionageEverAmount=52
 	ContactWithTeam=7
-	ContactWithTeam=9
 	RevealMap=0
 EndTeam
 BeginTeam
 	TeamID=8
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_HUNTING
-	Tech=TECH_MINING
-	EspionageTeam=2, EspionageAmount=54
-	EspionageEverAmount=54
-	ContactWithTeam=2
 	ContactWithTeam=8
 	RevealMap=0
 EndTeam
@@ -109,22 +83,13 @@ BeginTeam
 	TeamID=9
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_AGRICULTURE
-	EspionageTeam=7, EspionageAmount=25
-	EspionageTeam=12, EspionageAmount=29
-	EspionageEverAmount=54
-	ContactWithTeam=7
 	ContactWithTeam=9
-	ContactWithTeam=11
-	ContactWithTeam=12
 	RevealMap=0
 EndTeam
 BeginTeam
 	TeamID=10
 	Tech=TECH_MYSTICISM
 	Tech=TECH_THE_WHEEL
-	EspionageTeam=5, EspionageAmount=8
-	EspionageEverAmount=36
-	ContactWithTeam=5
 	ContactWithTeam=10
 	RevealMap=0
 EndTeam
@@ -132,9 +97,6 @@ BeginTeam
 	TeamID=11
 	Tech=TECH_MYSTICISM
 	Tech=TECH_FISHING
-	EspionageTeam=9, EspionageAmount=4
-	EspionageEverAmount=36
-	ContactWithTeam=9
 	ContactWithTeam=11
 	RevealMap=0
 EndTeam
@@ -142,9 +104,6 @@ BeginTeam
 	TeamID=12
 	Tech=TECH_FISHING
 	Tech=TECH_MINING
-	EspionageTeam=9, EspionageAmount=54
-	EspionageEverAmount=54
-	ContactWithTeam=9
 	ContactWithTeam=12
 	RevealMap=0
 EndTeam
@@ -152,9 +111,6 @@ BeginTeam
 	TeamID=13
 	Tech=TECH_HUNTING
 	Tech=TECH_MINING
-	EspionageTeam=3, EspionageAmount=20
-	EspionageEverAmount=40
-	ContactWithTeam=3
 	ContactWithTeam=13
 	RevealMap=0
 EndTeam
@@ -162,8 +118,6 @@ BeginTeam
 	TeamID=14
 	Tech=TECH_THE_WHEEL
 	Tech=TECH_MINING
-	EspionageEverAmount=36
-	ContactWithTeam=0
 	ContactWithTeam=14
 	RevealMap=0
 EndTeam
@@ -171,19 +125,13 @@ BeginTeam
 	TeamID=15
 	Tech=TECH_MYSTICISM
 	Tech=TECH_AGRICULTURE
-	EspionageTeam=16, EspionageAmount=8
-	EspionageEverAmount=32
 	ContactWithTeam=15
-	ContactWithTeam=16
 	RevealMap=0
 EndTeam
 BeginTeam
 	TeamID=16
 	Tech=TECH_MYSTICISM
 	Tech=TECH_HUNTING
-	EspionageTeam=15, EspionageAmount=13
-	EspionageEverAmount=33
-	ContactWithTeam=15
 	ContactWithTeam=16
 	RevealMap=0
 EndTeam
@@ -191,7 +139,6 @@ BeginTeam
 	TeamID=17
 	Tech=TECH_FISHING
 	Tech=TECH_AGRICULTURE
-	ContactWithTeam=4
 	ContactWithTeam=17
 	RevealMap=0
 EndTeam
