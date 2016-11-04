@@ -5674,7 +5674,7 @@ EndPlot
 BeginPlot
 	x=13,y=38
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=13,y=39
@@ -5721,7 +5721,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=13,y=48
@@ -6086,7 +6086,7 @@ EndPlot
 BeginPlot
 	x=14,y=38
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=14,y=39
@@ -6118,12 +6118,12 @@ EndPlot
 BeginPlot
 	x=14,y=44
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=14,y=45
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=14,y=46
@@ -6135,7 +6135,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=14,y=48
@@ -6183,7 +6183,7 @@ EndPlot
 BeginPlot
 	x=14,y=55
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=14,y=56
@@ -6194,7 +6194,7 @@ EndPlot
 BeginPlot
 	x=14,y=57
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=14,y=58
@@ -6501,7 +6501,7 @@ BeginPlot
 	RiverWEDirection=1
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=15,y=38
@@ -6512,7 +6512,7 @@ EndPlot
 BeginPlot
 	x=15,y=39
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=15,y=40
@@ -6530,17 +6530,17 @@ BeginPlot
 	RiverWEDirection=1
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=15,y=43
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=15,y=44
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=15,y=45
@@ -6559,7 +6559,7 @@ BeginPlot
 	RiverWEDirection=3
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=15,y=48
@@ -6590,7 +6590,7 @@ BeginPlot
 	isWOfRiver
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=15,y=53
@@ -6964,7 +6964,7 @@ EndPlot
 BeginPlot
 	x=16,y=39
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=16,y=40
@@ -6992,12 +6992,12 @@ EndPlot
 BeginPlot
 	x=16,y=44
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=16,y=45
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=16,y=46
@@ -7009,7 +7009,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=16,y=48
@@ -7025,12 +7025,12 @@ EndPlot
 BeginPlot
 	x=16,y=50
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=16,y=51
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=16,y=52
@@ -7055,7 +7055,7 @@ EndPlot
 BeginPlot
 	x=16,y=56
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=16,y=57
@@ -7369,7 +7369,7 @@ EndPlot
 BeginPlot
 	x=17,y=36
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=17,y=37
@@ -7410,7 +7410,7 @@ EndPlot
 BeginPlot
 	x=17,y=43
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=17,y=44
@@ -7452,7 +7452,7 @@ EndPlot
 BeginPlot
 	x=17,y=51
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=17,y=52
@@ -7463,7 +7463,7 @@ EndPlot
 BeginPlot
 	x=17,y=53
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=17,y=54
@@ -7478,7 +7478,7 @@ EndPlot
 BeginPlot
 	x=17,y=56
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=17,y=57
@@ -7489,7 +7489,7 @@ EndPlot
 BeginPlot
 	x=17,y=58
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=17,y=59
@@ -8254,17 +8254,17 @@ EndPlot
 BeginPlot
 	x=19,y=48
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=19,y=49
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=19,y=50
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=19,y=51
@@ -8275,12 +8275,12 @@ EndPlot
 BeginPlot
 	x=19,y=52
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=19,y=53
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=19,y=54
@@ -8291,12 +8291,12 @@ EndPlot
 BeginPlot
 	x=19,y=55
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=19,y=56
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=19,y=57
@@ -8638,12 +8638,12 @@ EndPlot
 BeginPlot
 	x=20,y=43
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=20,y=44
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=20,y=45
@@ -8661,7 +8661,7 @@ BeginPlot
 	RiverWEDirection=3
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=20,y=48
@@ -8672,12 +8672,12 @@ EndPlot
 BeginPlot
 	x=20,y=49
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=20,y=50
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=20,y=51
@@ -8690,12 +8690,12 @@ BeginPlot
 	RiverWEDirection=1
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=20,y=53
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=20,y=54
@@ -8705,7 +8705,7 @@ EndPlot
 BeginPlot
 	x=20,y=55
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=20,y=56
@@ -8718,7 +8718,7 @@ BeginPlot
 	RiverWEDirection=1
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=20,y=58
@@ -8994,17 +8994,17 @@ EndPlot
 BeginPlot
 	x=21,y=35
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=21,y=36
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=21,y=37
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=21,y=38
@@ -9066,17 +9066,17 @@ EndPlot
 BeginPlot
 	x=21,y=48
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=21,y=49
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=21,y=50
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=21,y=51
@@ -9104,7 +9104,7 @@ EndPlot
 BeginPlot
 	x=21,y=55
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=21,y=56
@@ -9400,17 +9400,17 @@ EndPlot
 BeginPlot
 	x=22,y=36
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=22,y=37
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=22,y=38
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=22,y=39
@@ -9788,21 +9788,25 @@ BeginPlot
 	x=23,y=35
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=23,y=36
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
+	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=23,y=37
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
+	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=23,y=38
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
+	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=23,y=39
@@ -9817,12 +9821,12 @@ EndPlot
 BeginPlot
 	x=23,y=41
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=42
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=43
@@ -9905,7 +9909,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=23,y=58
@@ -10188,13 +10192,13 @@ EndPlot
 BeginPlot
 	x=24,y=36
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=24,y=37
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
@@ -10212,17 +10216,17 @@ EndPlot
 BeginPlot
 	x=24,y=40
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=41
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=42
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=43
@@ -10233,7 +10237,7 @@ EndPlot
 BeginPlot
 	x=24,y=44
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=45
@@ -10263,12 +10267,12 @@ EndPlot
 BeginPlot
 	x=24,y=49
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=50
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=51
@@ -10291,12 +10295,12 @@ EndPlot
 BeginPlot
 	x=24,y=54
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=55
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=24,y=56
@@ -10629,11 +10633,15 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=25,y=41
+	RiverNSDirection=2
+	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=25,y=42
+	RiverNSDirection=2
+	isWOfRiver
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
@@ -10646,7 +10654,7 @@ EndPlot
 BeginPlot
 	x=25,y=44
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=25,y=45
@@ -10677,12 +10685,12 @@ EndPlot
 BeginPlot
 	x=25,y=49
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=25,y=50
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
@@ -10699,7 +10707,7 @@ BeginPlot
 	isWOfRiver
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
@@ -10738,7 +10746,7 @@ BeginPlot
 	isWOfRiver
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=25,y=58
@@ -11045,6 +11053,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=41
+	isNOfRiver
+	RiverWEDirection=3
 	BonusType=BONUS_WHEAT
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
@@ -11056,6 +11066,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=43
+	isNOfRiver
+	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -11101,7 +11113,7 @@ EndPlot
 BeginPlot
 	x=26,y=50
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
@@ -11130,7 +11142,7 @@ EndPlot
 BeginPlot
 	x=26,y=55
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
@@ -11458,6 +11470,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=43
+	isNOfRiver
+	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -11533,25 +11547,25 @@ EndPlot
 BeginPlot
 	x=27,y=56
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=27,y=57
 	BonusType=BONUS_GOLD
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=27,y=58
+	BonusType=BONUS_WINE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 	TeamReveal=17,
 EndPlot
 BeginPlot
 	x=27,y=59
-	BonusType=BONUS_WINE
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -11861,6 +11875,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=28,y=43
+	isNOfRiver
+	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -11916,7 +11932,7 @@ BeginPlot
 	RiverNSDirection=0
 	isWOfRiver
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=28,y=53
@@ -11952,7 +11968,7 @@ EndPlot
 BeginPlot
 	x=28,y=57
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
@@ -12250,22 +12266,22 @@ EndPlot
 BeginPlot
 	x=29,y=38
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=29,y=39
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=29,y=40
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=29,y=41
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=29,y=42
@@ -12274,6 +12290,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=29,y=43
+	isNOfRiver
+	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -12330,12 +12348,12 @@ EndPlot
 BeginPlot
 	x=29,y=53
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=29,y=54
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
@@ -12647,17 +12665,17 @@ EndPlot
 BeginPlot
 	x=30,y=39
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=30,y=40
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=30,y=41
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=30,y=42
@@ -12699,12 +12717,12 @@ EndPlot
 BeginPlot
 	x=30,y=48
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=30,y=49
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=30,y=50
@@ -12728,7 +12746,7 @@ BeginPlot
 	isWOfRiver
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=30,y=53
@@ -12746,7 +12764,7 @@ EndPlot
 BeginPlot
 	x=30,y=55
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
@@ -12763,7 +12781,7 @@ BeginPlot
 	isWOfRiver
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 	TeamReveal=17,
 EndPlot
 BeginPlot
@@ -13043,12 +13061,12 @@ EndPlot
 BeginPlot
 	x=31,y=38
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=31,y=39
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=31,y=40
@@ -13058,7 +13076,7 @@ EndPlot
 BeginPlot
 	x=31,y=41
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=31,y=42
@@ -13110,7 +13128,7 @@ EndPlot
 BeginPlot
 	x=31,y=50
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=31,y=51
@@ -13132,12 +13150,12 @@ EndPlot
 BeginPlot
 	x=31,y=54
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=31,y=55
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=31,y=56
@@ -13153,12 +13171,12 @@ EndPlot
 BeginPlot
 	x=31,y=58
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=31,y=59
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=31,y=60
@@ -13888,7 +13906,7 @@ EndPlot
 BeginPlot
 	x=33,y=51
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=33,y=52
@@ -13917,17 +13935,17 @@ EndPlot
 BeginPlot
 	x=33,y=56
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=33,y=57
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=33,y=58
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=33,y=59
@@ -14217,12 +14235,12 @@ EndPlot
 BeginPlot
 	x=34,y=38
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=34,y=39
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=34,y=40
@@ -14250,7 +14268,7 @@ EndPlot
 BeginPlot
 	x=34,y=44
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=34,y=45
@@ -14270,17 +14288,17 @@ EndPlot
 BeginPlot
 	x=34,y=48
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=34,y=49
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=34,y=50
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=34,y=51
@@ -14291,7 +14309,7 @@ EndPlot
 BeginPlot
 	x=34,y=52
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=34,y=53
@@ -14335,7 +14353,7 @@ EndPlot
 BeginPlot
 	x=34,y=59
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=34,y=60
@@ -14625,7 +14643,7 @@ EndPlot
 BeginPlot
 	x=35,y=39
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=35,y=40
@@ -14636,13 +14654,13 @@ EndPlot
 BeginPlot
 	x=35,y=41
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=35,y=42
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=35,y=43
@@ -14673,7 +14691,7 @@ BeginPlot
 	RiverWEDirection=1
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=35,y=48
@@ -14684,12 +14702,12 @@ EndPlot
 BeginPlot
 	x=35,y=49
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=35,y=50
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=35,y=51
@@ -14704,7 +14722,7 @@ BeginPlot
 	isWOfRiver
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=35,y=53
@@ -14740,7 +14758,7 @@ BeginPlot
 	RiverWEDirection=3
 	ImprovementType=IMPROVEMENT_GOODY_HUT
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=35,y=58
@@ -15027,12 +15045,12 @@ EndPlot
 BeginPlot
 	x=36,y=38
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=36,y=39
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=36,y=40
@@ -15047,7 +15065,7 @@ EndPlot
 BeginPlot
 	x=36,y=42
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=36,y=43
@@ -15059,7 +15077,7 @@ EndPlot
 BeginPlot
 	x=36,y=44
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=36,y=45
@@ -15086,7 +15104,7 @@ EndPlot
 BeginPlot
 	x=36,y=49
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=36,y=50
@@ -15107,6 +15125,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=36,y=53
+	BonusType=BONUS_GEMS
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -15402,7 +15421,7 @@ EndPlot
 BeginPlot
 	x=37,y=38
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=37,y=39
@@ -15487,7 +15506,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=37,y=54
-	BonusType=BONUS_GEMS
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -15499,7 +15517,7 @@ EndPlot
 BeginPlot
 	x=37,y=56
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=1
 EndPlot
 BeginPlot
 	x=37,y=57
