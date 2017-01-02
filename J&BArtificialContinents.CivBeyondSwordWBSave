@@ -6185,7 +6185,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=15,y=38
-	BonusType=BONUS_COPPER
+	BonusType=BONUS_IRON
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
@@ -7801,13 +7801,13 @@ EndPlot
 BeginPlot
 	x=19,y=36
 	BonusType=BONUS_CRAB
-	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=19,y=37
 	StartingPlot
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -9791,7 +9791,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=43
-	BonusType=BONUS_IRON
+	BonusType=BONUS_COPPER
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -13290,7 +13290,7 @@ BeginPlot
 	x=33,y=47
 	isNOfRiver
 	RiverWEDirection=3
-	BonusType=BONUS_OIL
+	BonusType=BONUS_URANIUM
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -13982,12 +13982,12 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=35,y=32
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=35,y=33
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -14016,7 +14016,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=35,y=38
-	BonusType=BONUS_URANIUM
+	BonusType=BONUS_OIL
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -14374,17 +14374,17 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=36,y=32
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=33
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_OCEAN
+	PlotType=3
 EndPlot
 BeginPlot
 	x=36,y=34
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -14731,17 +14731,17 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=37,y=32
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=33
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=37,y=34
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
@@ -17531,9 +17531,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=45,y=45
-	FeatureType=FEATURE_FOREST, FeatureVariety=0
-	TerrainType=TERRAIN_PLAINS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=45,y=46
@@ -17870,17 +17869,17 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=46,y=44
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=46,y=45
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot
 	x=46,y=46
-	TerrainType=TERRAIN_COAST
+	TerrainType=TERRAIN_OCEAN
 	PlotType=3
 EndPlot
 BeginPlot

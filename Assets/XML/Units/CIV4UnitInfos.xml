@@ -21517,7 +21517,7 @@
 			<Special>NONE</Special>
 			<Capture>NONE</Capture>
 			<Combat>NONE</Combat>
-			<Domain>DOMAIN_IMMOBILE</Domain>
+			<Domain>DOMAIN_AIR</Domain>
 			<DefaultUnitAI>UNITAI_ICBM</DefaultUnitAI>
 			<Invisible>NONE</Invisible>
 			<SeeInvisible>NONE</SeeInvisible>
