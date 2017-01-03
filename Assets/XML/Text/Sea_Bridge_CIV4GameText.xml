@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SEA_BRIDGE_NS</Tag>
+		<English>Build Sea Bridge NS</English>
+		<French>Build Sea Bridge NS</French>
+		<German>Build Sea Bridge NS</German>
+		<Italian>Build Sea Bridge NS</Italian>
+		<Spanish>Build Sea Bridge NS</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SEA_BRIDGE_EW</Tag>
+		<English>Build Sea Bridge EW</English>
+		<French>Build Sea Bridge EW</French>
+		<German>Build Sea Bridge EW</German>
+		<Italian>Build Sea Bridge EW</Italian>
+		<Spanish>Build Sea Bridge EW</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SEA_BRIDGE_NWSE</Tag>
+		<English>Build Sea Bridge NWSE</English>
+		<French>Build Sea Bridge NWSE</French>
+		<German>Build Sea Bridge NWSE</German>
+		<Italian>Build Sea Bridge NWSE</Italian>
+		<Spanish>Build Sea Bridge NWSE</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SEA_BRIDGE_NESW</Tag>
+		<English>Build Sea Bridge NESW</English>
+		<French>Build Sea Bridge NESW</French>
+		<German>Build Sea Bridge NESW</German>
+		<Italian>Build Sea Bridge NESW</Italian>
+		<Spanish>Build Sea Bridge NESW</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_SEA_BRIDGE_HELP</Tag>
+		<English>Requires Coast</English>
+		<French>Requires Coast</French>
+		<German>Requires Coast</German>
+		<Italian>Requires Coast</Italian>
+		<Spanish>Requires Coast</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SEA_BRIDGE</Tag>
+		<English>Sea Bridge</English>
+		<French>Sea Bridge</French>
+		<German>Sea Bridge</German>
+		<Italian>Sea Bridge</Italian>
+		<Spanish>Sea Bridge</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_SEA_BRIDGE_PEDIA</Tag>
+		<English>[TAB]Building a Sea Bridge provides land units the ability to cross coastal water plots to reach another land plot.  Construction of the Sea Bridge is performed by the Workboat.</English>
+		<French>[TAB]Building a Sea Bridge provides land units the ability to cross coastal water plots to reach another land plot.  Construction of the Sea Bridge is performed by the Workboat</French>
+		<German>[TAB]Building a Sea Bridge provides land units the ability to cross coastal water plots to reach another land plot.  Construction of the Sea Bridge is performed by the Workboat</German>
+		<Italian>[TAB]Building a Sea Bridge provides land units the ability to cross coastal water plots to reach another land plot.  Construction of the Sea Bridge is performed by the Workboat</Italian>
+		<Spanish>[TAB]Building a Sea Bridge provides land units the ability to cross coastal water plots to reach another land plot.  Construction of the Sea Bridge is performed by the Workboat</Spanish>
+	</TEXT>
+</Civ4GameText>

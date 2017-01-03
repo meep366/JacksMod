@@ -16764,6 +16764,22 @@
 					<BuildType>BUILD_OFFSHORE_PLATFORM</BuildType>
 					<bBuild>1</bBuild>
 				</Build>
+				<Build>
+					<BuildType>BUILD_SEA_BRIDGE_NS</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_SEA_BRIDGE_EW</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_SEA_BRIDGE_NWSE</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
+				<Build>
+					<BuildType>BUILD_SEA_BRIDGE_NESW</BuildType>
+					<bBuild>1</bBuild>
+				</Build>
 			</Builds>
 			<ReligionSpreads/>
 			<CorporationSpreads/>
