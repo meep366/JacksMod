@@ -2378,22 +2378,22 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=5,y=10
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=5,y=11
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=5,y=12
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=5,y=13
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -2723,13 +2723,15 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=6,y=11
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=6,y=12
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=6,y=13
@@ -2738,12 +2740,12 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=6,y=14
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
 	x=6,y=15
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -3063,14 +3065,16 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=7,y=10
-	TerrainType=TERRAIN_COAST
-	PlotType=3
-EndPlot
-BeginPlot
-	x=7,y=11
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+EndPlot
+BeginPlot
+	x=7,y=11
+	BonusType=BONUS_COAL
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=1
 EndPlot
 BeginPlot
 	x=7,y=12
@@ -3085,8 +3089,9 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=7,y=14
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=7,y=15
@@ -3432,11 +3437,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=8,y=13
-	TerrainType=TERRAIN_COAST
-	PlotType=3
+	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	TerrainType=TERRAIN_GRASS
+	PlotType=2
 EndPlot
 BeginPlot
 	x=8,y=14
+	BonusType=BONUS_COPPER
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
@@ -3803,7 +3810,7 @@ BeginPlot
 	RiverNSDirection=2
 	isWOfRiver
 	BonusType=BONUS_PIG
-	FeatureType=FEATURE_FOREST, FeatureVariety=1
+	FeatureType=FEATURE_FOREST, FeatureVariety=0
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -3817,8 +3824,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=9,y=15
-	TerrainType=TERRAIN_DESERT
-	PlotType=1
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=9,y=16
@@ -4140,9 +4147,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=10,y=10
-	FeatureType=FEATURE_FOREST, FeatureVariety=1
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_DESERT
+	PlotType=1
 EndPlot
 BeginPlot
 	x=10,y=11
@@ -4158,15 +4164,13 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=10,y=13
-	BonusType=BONUS_COPPER
 	FeatureType=FEATURE_FOREST, FeatureVariety=1
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
 EndPlot
 BeginPlot
 	x=10,y=14
-	FeatureType=FEATURE_FOREST, FeatureVariety=1
-	TerrainType=TERRAIN_GRASS
+	TerrainType=TERRAIN_DESERT
 	PlotType=1
 EndPlot
 BeginPlot
@@ -4507,22 +4511,18 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=11,y=11
-	BonusType=BONUS_COAL
-	FeatureType=FEATURE_FOREST, FeatureVariety=1
-	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=12
-	FeatureType=FEATURE_FOREST, FeatureVariety=1
-	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=13
-	FeatureType=FEATURE_FOREST, FeatureVariety=1
-	TerrainType=TERRAIN_GRASS
-	PlotType=1
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=11,y=14
@@ -5255,7 +5255,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=13,y=14
-	BonusType=BONUS_CRAB
+	BonusType=BONUS_CLAM
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -39517,8 +39517,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=105,y=20
-	RiverNSDirection=2
-	isWOfRiver
 	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
@@ -39613,8 +39611,6 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=105,y=38
-	RiverNSDirection=0
-	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -46229,12 +46225,6 @@ BeginSign
 	caption=9-G
 EndSign
 BeginSign
-	plotX=9
-	plotY=12
-	playerType=-1
-	caption=10-P
-EndSign
-BeginSign
 	plotX=25
 	plotY=12
 	playerType=-1
@@ -46323,4 +46313,10 @@ BeginSign
 	plotY=22
 	playerType=-1
 	caption=25-G
+EndSign
+BeginSign
+	plotX=8
+	plotY=12
+	playerType=-1
+	caption=10-P
 EndSign
