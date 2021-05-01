@@ -3238,6 +3238,10 @@
 			</Buildings>
 			<Units>
 				<Unit>
+					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+					<UnitType>UNIT_ROME_PRAETORIAN</UnitType>
+				</Unit>
+				<Unit>
 					<UnitClassType>UNITCLASS_STEALTH_BOMBER</UnitClassType>
 					<UnitType>UNIT_NIGHTHAWK</UnitType>
 				</Unit>
