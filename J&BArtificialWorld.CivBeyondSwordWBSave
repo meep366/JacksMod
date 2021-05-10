@@ -2173,21 +2173,29 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=4,y=37
-	TerrainType=TERRAIN_DESERT
+	RiverNSDirection=0
+	isWOfRiver
+	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=4,y=38
-	TerrainType=TERRAIN_DESERT
+	RiverNSDirection=0
+	isWOfRiver
+	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=4,y=39
-	TerrainType=TERRAIN_DESERT
+	RiverNSDirection=0
+	isWOfRiver
+	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=4,y=40
+	RiverNSDirection=0
+	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -10044,6 +10052,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=25,y=24
+	isNOfRiver
+	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -10450,6 +10460,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=24
+	isNOfRiver
+	RiverWEDirection=3
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
@@ -15385,22 +15397,30 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=39,y=30
+	RiverNSDirection=0
+	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=39,y=31
+	RiverNSDirection=0
+	isWOfRiver
 	BonusType=BONUS_CORN
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=39,y=32
+	RiverNSDirection=0
+	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=39,y=33
+	RiverNSDirection=0
+	isWOfRiver
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
 EndPlot
@@ -15641,7 +15661,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=40,y=13
-	TerrainType=TERRAIN_OCEAN
+	TerrainType=TERRAIN_COAST
 	PlotType=3
 EndPlot
 BeginPlot
@@ -15726,17 +15746,17 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=40,y=30
-	TerrainType=TERRAIN_DESERT
+	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=40,y=31
-	TerrainType=TERRAIN_DESERT
+	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
 BeginPlot
 	x=40,y=32
-	TerrainType=TERRAIN_DESERT
+	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 EndPlot
 BeginPlot
