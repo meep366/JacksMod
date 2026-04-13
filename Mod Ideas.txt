@@ -1,4 +1,4 @@
 Increase diplomatic score by refusing to betray someone
-Kill inflation rate
+Kill inflation rate - Assets\XML\GameInfo\Civ4GameSpeedInfo.xml
 Remove nuke diplomatic penalty?
 Remove nuke friend penalty?
