@@ -8166,17 +8166,23 @@ BeginPlot
 	x=20,y=35
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	RiverNSDirection=2
+	isWOfRiver
 EndPlot
 BeginPlot
 	x=20,y=36
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	RiverNSDirection=2
+	isWOfRiver
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 EndPlot
 BeginPlot
 	x=20,y=37
 	TerrainType=TERRAIN_GRASS
 	PlotType=2
+	RiverNSDirection=2
+	isWOfRiver
 	FeatureType=FEATURE_FOREST, FeatureVariety=0
 EndPlot
 BeginPlot
